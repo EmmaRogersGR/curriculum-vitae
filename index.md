@@ -1,27 +1,18 @@
-_Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth._
+_Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am working with Dr. Marisa Palucis. Previously an undergraduate researcher with Dr. Briony Horgan and Dr. Darryl Granger at Purdue University. My primary research interests include terrestrial analogs, sedimentology, and geomorphology in bridging Earth and Planetary Sciences._
 
 [Email](mailto:emma.rogers.gr@dartmouth.edu)
 
 ## Education
-**Dartmouth College** (September 2022 - Present) <br>
+**Dartmouth College** (August 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
-_Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
+_Member of the "Earth and Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._
 > **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) Intensive training on ice dynamics and ice-climate interactions.<br>
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) Robust training in various artificial intelligience architectures and their applications to glaciology.   
 
-**University of California, Los Angeles** (September 2018 - June 2022) <br>
-_**B.S. Applied Mathematics with Specialization in Computing, Minor in History**_ <br>
-Dean's Honors List (Winter 2021, Spring 2021, Fall 2021, Winter 2022)
-
-**NPS International School, Singapore** (May 2018) <br>
-_**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
-_Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_
-
-**Singapore Indian Fine Arts Society** (June 2018) <br>
-_**Diploma in Classical Indian Dance, Bharatanatyam**_<br>
-_Professionally trained in Bharatanatyam for eight years and awarded a diploma_
-
-![patch](/img/IMG_8352.jpeg)
+**Purdue University** (August 2018 - December 2021) <br>
+_**B.S. Geology and Geophysics**_ <br>
+_**B.S. Planetary Sciences**_ <br>
+Dean's Honors List (Fall 2018 - Fall 2021)
 
 ## Skills
 - **Programming/Software**: <br>
@@ -66,12 +57,6 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 - Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. [https://doi.org/10.1029/2023JD039926](https://doi.org/10.1029/2023JD039926) <br>
 - Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)
 
-**Articles**<br>
-- [When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-- [Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
-- [Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
-- [Punctuality and popularity of public transit routes near UCLA’s campus](https://stack.dailybruin.com/2022/03/01/public-transit/)
-
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
 Oral Presentation | March 2024 <br>
@@ -81,67 +66,17 @@ Oral Presentation | March 2024 <br>
 e-Lightning Talk and Poster | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | December 2023 <br>
 > Presented research (**_Title: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning_**) at the Machine Learning and the Cryosphere: Data and Modeling III session.
 
-**Fire and Climate Conference: Impacts, Issues, and Futures**<br>
-Oral Presentation | May 2022 <br>
-> Presented undergraduate research (**_Title: Plume Injection Heights Estimated From Doppler Weather Radar Observations_**) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
-
-**UCLA Undergraduate Research Week 2022 - Atmospheric and Environmental Science Showcase**<br>
-Presentation | May 2022 <br>
-> Presented undergraduate research (**_Title: Plume Injection Heights Estimated From Weather Radar Observations_**) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
-
-**Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
-Poster Presentation | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | September 2021 <br>
-> Presented undergraduate research (**_Title: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations_**) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
-
-**UCLA Undergraduate Research Week 2021 - Atmospheric and Environmental Science Showcase**<br>
-Presentation | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | May 2021 <br>
-> Presented undergraduate research (**_Title: Plume Injection Heights Estimated From Weather Radar Observations_**) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
-
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
 Data Journalist | October 2020 - June 2022 <br>
 > Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
 > Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog).
 
-**Anthem, Inc., United States**<br>
-Data Science Intern | July 2021 - September 2021 <br>
-> Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis.
-
-**Visseiro Digital Healthcare, Germany**<br>
-Data Science e-Intern | June 2020 - August 2020 <br>
-> Used unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data.
-
 ## Teaching Experience
 **Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
 Volunteer Learning Assistant <br>
 > Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
-> Helped with curriculum development of Intro to Programming (Python) workshops. 
-
-**Learning Assistant Program, UCLA**<br>
-Anti-Racism Discussion (ARD) Facilitator | April 2022 - June 2022 <br>
-> Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. <br>
-> Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. <br>
-
-Learning Assistant for Python with Applications (PIC 16A) | January 2022 - March 2022 <br>
-> Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
-> Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
-
-Learning Assistant for Upper-Division Linear Algebra (Math 115A) | January 2021 - March 2021 <br>
-> Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
-> Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory.
-
-Head Pedagogy Learning Assistant for Differential Equations (Math 33B) | April 2020 - June 2020 <br>
-> Mentored new learning assistants in pedagogy techniques. <br>
-> Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
-> Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
-
-Learning Assistant for Calculus of Several Variables (Math 32A) | January 2020 - March 2020 <br>
-> Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
-> Core topics: Intro to differential calculus of several variables; vector field theory. 
-
-**Math Vision Enrichment Centre, Singapore**<br>
-High School (IGCSE Extended and Additional) Mathematics Tutor | August 2019 - September 2019 <br>
-> Taught and clarified mathematical concepts to high school students in a one-on-one setting. Created practice test papers for students. 
+> Helped with curriculum development of Intro to Programming (Python) workshops.
 
 ## Honors and Awards
 **Mathematical Contest in Modelling** | February 2022 <br>
@@ -163,18 +98,14 @@ Glacier Hydrology Modeling | May 2024 <br>
 Shallow Shelf Approximation using the Finite Element Method | [GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
 > Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf. 
 
-**Machine Learning (UCLA Math 156) Group Project**<br>
-Sentiment Analysis of Movie Reviews | [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | Fall Quarter 2021 <br>
-> Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
-**Python with Applications II (UCLA PIC 16B) Group Project**<br> 
-Sign Language Translation | [GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | Fall Quarter 2021 <br>
-> Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
-
-**Numerical Methods in Atmospheric Science (UCLA A&O SCI 180) Project**<br>
-Simulation of Shallow Water Equations in 2D | [Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1XPVNlBi9ifQv_8kFykdFvEi11zvZ5w6i/view?usp=sharing) |  Spring Quarter 2021 <br>
-> Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
-
-**Introduction to Research in Atmospheric and Oceanic Sciences (UCLA A&O SCI 90) Project** <br>
-An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast | [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | Winter Quarter 2021 <br>
-> The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
+**Science Design for Community Outreach** <br>
+A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. I am open to inquiries about creating designs for field expeditions, lab groups, and more! <br>
+>'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
+>![patch](/img/AtacamaMissionPatch.png) <br>
+>'Mission Patch' for Iceland Field work conducted in July 2024 <br>
+>![patch](/img/Iceland_Logo.png) <br>
+>Design made for a Master's thesis done by Matt Maclay, which centered on investigating the conditions that led to the fall of the 'Old Man on the Mountain' and [outreach](https://storymaps.arcgis.com/stories/e71c010c785d4ee4b1b15cea746a34c9) to the New Hampshire community   <br>
+>![patch](/img/MattPatch.png) <br>
+>Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
+>![patch](/img/2023_AGU_EPSP_Sticker.png) <br>
