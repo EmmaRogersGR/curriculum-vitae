@@ -109,3 +109,4 @@ A personal passion project to make designs focused around projects within my gro
 >![patch](/img/Matt_Patch.png) <br>
 >Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
 >![patch](/img/AGU_EPSP_Sticker.png) <br>
+<img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/AGU_EPSP_Sticker.png.type" width="100" height="100">
