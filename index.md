@@ -5,15 +5,15 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am wor
 ## Education
 **Dartmouth College** (August 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
-_Member of the "Earth and Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._
-> **[The University Centre in Svalbard (UNIS)](https://www.unis.no): Arctic Quaternary Environments** (Oct-Nov 2023) Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
+_Member of the "Earth and Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._<br>
+> **[The University Centre in Svalbard (UNIS)](https://www.unis.no): Arctic Quaternary Environments** (Oct-Nov 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
 
 **Purdue University** (August 2018 - December 2021) <br>
 _**B.S. Geology and Geophysics**_ <br>
 _**B.S. Planetary Sciences**_ <br>
-_GPA: 3.91/4.0
-_Honors College, Dean’s List, and Semester Honors (Fall 2018 - Fall 2021)
-_[Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)
+_GPA: 3.91/4.0<br>
+_Honors College, Dean’s List, and Semester Honors (Fall 2018 - Fall 2021)<br>
+_[Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
 
 ## Skills
 - **Programming/Software**: <br>
