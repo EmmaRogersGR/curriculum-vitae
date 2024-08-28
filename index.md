@@ -7,6 +7,8 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am wor
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 _Member of the "Earth and Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._<br>
 > **[The University Centre in Svalbard (UNIS)](https://www.unis.no): Arctic Quaternary Environments** (Oct-Nov 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
+> **[Geology & Planetary Mapping (GMAP) Winter School](https://www.planetarymapping.eu/425/program.html)** <br>
+The GMAP Winter School is focused on the production of planetary geological maps of a range of Solar System bodies: building upon earlier editions targeting Mars, the Moon, and Mercury, the 2024 edition covered exemplary geologic mapping aspects on Venus, Icy Satellites and Small Bodies.
 
 **Purdue University** (August 2018 - December 2021) <br>
 _**B.S. Geology and Geophysics; Double Major in Planetary Sciences**_ <br>
@@ -34,33 +36,40 @@ English _(Native)_, Spanish _(Beginner)_
 > Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College. <br>
 > Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features.
 
-**Physics Informed Neural Networks for Ice and CLimatE, [PINNICLE](https://github.com/ISSMteam/PINNICLE)** <br>
-**Developer** | January 2024 - Present <br>
-> Working with Cheng Gong and Mathieu Morlighem on developing the open-source Python package, PINNICLE. This package is catered towards training and deploying physics-informed neural networks specifically for ice and climate research.  
-
 **[Pablo Saide Research Group](https://dept.atmos.ucla.edu/saide/home), UCLA** <br>
 **Undergraduate Researcher** | October 2020 - June 2022 <br>
 > Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA. <br>
 > Investigating Doppler Radar data to retrieve fire plume injection heights for the purpose of evaluating air quality and high-resolution fire spread models.
 
-**[Sustainable LA Grand Challenge](https://grandchallenges.ucla.edu/sustainable-la/) Undergraduate Research Scholars Program** <br>
-**Undergraduate Research Scholar** | October 2020 - June 2021 <br>
-> Worked on a group research project with Bonny Bentzin (Deputy Chief Sustainability Officer, Institute of the Environment and Sustainability, UCLA) and Dr. Rebecca Shipe (Department of Ecology and Evolutionary Biology, UCLA) as mentors. <br>
-> Investigated the feasibility of implementing a geothermal system for UCLA's North Campus' heating and cooling needs for the purpose of energy conservation.
 
 ## Publications
 **Research**:<br>
-- Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. [https://doi.org/10.1029/2023JD039926](https://doi.org/10.1029/2023JD039926) <br>
-- Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)
+- Rogers, E. R., Qualizza, B. R., Heidenreich, J. R., Dawson, H. G., & Horgan, B. H. N. (2023). Silica‐Bearing Mounds and Strata in the Southwest Melas Basin, Valles Marineris, Mars: Evidence for a Hydrothermal Origin. Journal of Geophysical Research: Planets, 128(11), e2023JE007881. [https://doi.org/10.1029/2023JE007881](https://doi.org/10.1029/2023JE007881) <br>
+- Rogers, E. R., Granger, D. E. (In Prep), A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma. Earth Surface Processes and Landforms. <br>
 
 ## Presentations
-**Northeast Glaciology Meeting (NEGM) 2024**<br>
-Oral Presentation | March 2024 <br>
-> Presented research (**_Title: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning_**) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
+**Second Workshop on Terrestrial Analogs for Planetary Exploration 2024**<br>
+Virtual Oral Presentation | [Abstract](https://www.hou.usra.edu/meetings/terrestrialanalogs2024/pdf/8016.pdf) | August 2024 <br>
+> Presented research (**_Title: Reconstructing basaltic sediment transport on Mars using clast morphometry_**) at Second Workshop on Terrestrial Analogs for Planetary Exploration 2024, hosted at the Northern Arizona University (NAU), in a 12-minute virtual oral presentation.
 
 **American Geophysical Union (AGU) 2023**<br>
-e-Lightning Talk and Poster | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | December 2023 <br>
-> Presented research (**_Title: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning_**) at the Machine Learning and the Cryosphere: Data and Modeling III session.
+Oral Presentation | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1258263) | December 2023 <br>
+> Presented research (**_Title: Reconstructing basaltic sediment transport using clast morphometry_**) at the Granular and Fluid Physics on Earth and Other Planetary Bodies session.
+
+**54th Lunar and Planetary Science Conference (LPSC) 2023**<br>
+Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1200.pdf) | March 2023 <br>
+> Presented research (**_Title: Reconstructing basaltic sediment transport on Mars using terrestrial analogs_**) at the Sedimentary Analogues: Sediments, Transport, and Structures session.
+
+**American Geophysical Union (AGU) 2021**<br>
+E-lightning Presentation and Poster | [Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/910572) | [Poster](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=48-BD-35-FD-97-8D-0F-F6-44-6A-26-AA-E2-AC-2A-41) | December 2021 <br>
+> Presented research (**_Title: A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma_**) at the Coupling of the Cryosphere, Solid Earth, Surface, and Climate in Shaping Late Cenozoic Topography eLightning session.
+
+
+Rogers, E. R., Gulick, V. C., & Glines, N. H. (2021, October), Understanding equatorial gully erosion on Mars: a case study on Krupac Crater [Conference Lightning Talk] Council of Undergraduate Research REU Symposium 2021
+Rogers, E. R. & Granger, D. E. (2021, May). A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma [Conference Poster Presentation] Geological Society of America North-Central Section - 54th Annual Meeting
+Rogers, E. R., Gulick, V. C., & Glines, N. H. (2021, March), Understanding equatorial gully erosion on Mars: a case study on Krupac Crater [Conference Poster Presentation] 52nd Lunar and Planetary Science Conference (2021), Abstract #1745
+Heidenreich, J. R., Rogers, E. R., Qualizza, B. R., Dawson, H. G., Horgan, B. N. (2021, March), A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars [Conference Poster Presentation] 52nd Lunar and Planetary Science Conference (2021), Abstract #2432
+
 
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
