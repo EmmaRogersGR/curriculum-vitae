@@ -21,7 +21,7 @@ _Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), E
 _**Diploma in Classical Indian Dance, Bharatanatyam**_<br>
 _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
 
-![patch](/images/IMG_8352.jpeg)
+![patch](/img/IMG_8352.jpeg)
 
 ## Skills
 - **Programming/Software**: <br>
