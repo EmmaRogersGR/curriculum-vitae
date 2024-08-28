@@ -9,29 +9,24 @@ _Member of the "Earth and Planetary Geomorphology" - Research Group, advised by 
 > **[The University Centre in Svalbard (UNIS)](https://www.unis.no): Arctic Quaternary Environments** (Oct-Nov 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
 
 **Purdue University** (August 2018 - December 2021) <br>
-_**B.S. Geology and Geophysics**_ <br>
-_**B.S. Planetary Sciences**_ <br>
+_**B.S. Geology and Geophysics; Double Major in Planetary Sciences**_ <br>
 GPA: 3.91/4.0<br>
 Honors College, Dean’s List, and Semester Honors (Fall 2018 - Fall 2021)<br>
 [Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
 
 ## Skills
 - **Programming/Software**: <br>
-  * Object-Oriented Programming (C++, Python)
-  * Machine Learning (Python - TensorFlow, Keras, Scikit-Learn, PyTorch)
-  * Data Science (MATLAB, Python - NumPy, Pandas, SciPy, sqlite3)
-  * Numerical Methods and Modeling (Python, MATLAB, Ice-sheet and Sea-level System Model)
-  * Data Visualization (MATLAB, Python - Matplotlib, Seaborn)
-  * Version Control (Git)
-  * Website Development (HTML, CSS, Jekyll)
-  * Computer Vision (Python - OpenCV)
-  * Command Line (Linux)
-  * Containers (Docker, Apptainer)
-  * High Performance Computing
+  * Object-Oriented Programming (Python)
+  * Data Visualization (MATLAB, Python - Matplotlib)
+  * Geographic Information Systems (ArcGIS Pro, QGIS)
+  * Structure from Motion (SfM) (Agisoft Metashape Professional)
+  * Hyper and Multispectral Image analysis (ENVI)
 - **Microsoft Office**:<br>
 Word, Excel, PowerPoint, Outlook
+- **Adobe Suite**:<br>
+Illustrator, Photoshop, Lightroom, PremierPro, Acrobat
 - **Languages**:<br>
-English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
+English _(Native)_, Spanish _(Beginner)_
 
 ## Research
 **["Ice Future" - Research Group](https://icefuture.org/), Dept. of Earth Sciences, Dartmouth College** <br>
