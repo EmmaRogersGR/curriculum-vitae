@@ -94,8 +94,8 @@ Glacier Hydrology Modeling | May 2024 <br>
 Shallow Shelf Approximation using the Finite Element Method | [GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
 > Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf. 
 
-
-**Science Design for Community Outreach** <br>
+## Outreach
+**Graphic Design for Science Communication** <br>
 A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. I am open to inquiries about creating designs for field expeditions, lab groups, and more! <br>
 >'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/AtacamaMissionPatch.png" width="300" height="300"> <br>
