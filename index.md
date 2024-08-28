@@ -73,19 +73,7 @@ Data Journalist | October 2020 - June 2022 <br>
 Volunteer Learning Assistant <br>
 > Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
 > Helped with curriculum development of Intro to Programming (Python) workshops.
-
-## Outreach
-**Graphic Design for Science Communication** <br>
-A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. I am open to inquiries about creating designs for field expeditions, lab groups, and more! <br>
->'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/AtacamaMissionPatch.png" width="300" height="300"> <br>
->'Mission Patch' for Iceland Field work conducted in July 2024 <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Iceland_Patch.png" width="300" height="300"><br>
->Design made for a Master's thesis done by Matt Maclay, which centered on investigating the conditions that led to the fall of the 'Old Man on the Mountain' and [outreach](https://storymaps.arcgis.com/stories/e71c010c785d4ee4b1b15cea746a34c9) to the New Hampshire community   <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Matt_Patch.png" width="300" height="300"><br>
->Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/2023_AGU_EPSP_Sticker.png" width="300" height="300"> <br>
-
+> 
 ## Honors and Awards
 **Mathematical Contest in Modelling** | February 2022 <br>
 _**Designation of Honorable Mention**_ <br>
@@ -104,4 +92,16 @@ Glacier Hydrology Modeling | May 2024 <br>
 
 **Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project** <br>
 Shallow Shelf Approximation using the Finite Element Method | [GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
-> Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf. 
+> Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf.
+
+## Outreach
+**Graphic Design for Science Communication** <br>
+A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. I am open to inquiries about creating designs for field expeditions, lab groups, and more! <br>
+>'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
+><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/AtacamaMissionPatch.png" width="300" height="300"> <br>
+>'Mission Patch' for Iceland Field work conducted in July 2024 <br>
+><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Iceland_Patch.png" width="300" height="300"><br>
+>Design made for a Master's thesis done by Matt Maclay, which centered on investigating the conditions that led to the fall of the 'Old Man on the Mountain' and [outreach](https://storymaps.arcgis.com/stories/e71c010c785d4ee4b1b15cea746a34c9) to the New Hampshire community   <br>
+><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Matt_Patch.png" width="300" height="300"><br>
+>Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
+><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/2023_AGU_EPSP_Sticker.png" width="300" height="300"> <br>
