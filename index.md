@@ -1,4 +1,4 @@
-_Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am working with Dr. Marisa Palucis. Previously an undergraduate researcher with Dr. Briony Horgan and Dr. Darryl Granger at Purdue University. My primary research interests include terrestrial analogs, sedimentology, and geomorphology in bridging Earth and Planetary Sciences._
+_Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am working with Dr. Marisa Palucis. Previously an undergraduate researcher with Dr. Briony Horgan and Dr. Darryl Granger at Purdue University. My primary research interests include Terrestrial Analogs, Sedimentology, Geomorphology, and Science Communication for bridging Earth and Planetary Sciences._
 
 [Email Me!](mailto:emma.rogers.gr@dartmouth.edu)
 
