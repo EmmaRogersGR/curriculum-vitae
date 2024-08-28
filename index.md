@@ -72,13 +72,13 @@ Lightning Oral Presentation | [Abstract](https://agu.confex.com/agu/fm21/meeting
 Virtual Poster Presentation |[Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
 > Presented research (**_Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater_**) virtually at the Modern Mars: Earth, Wind, and Ice Session
 
-**Geological Society of America North-Central Section - 54th Annual Meeting**<br>
-Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901)| May 2020 <br>
-> Presented research (**_Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma_**) virtually at the Glaciation/Deglaciation & All Things Aeolian Session
-
 **52nd Lunar and Planetary Science Conference (LPSC) 2021**<br>
 Virtual Poster Presentation |[Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
-> Co-author on the virtual poster (**_Title: A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars_**) at the Mars Geomorphology session. 
+> Co-author on the virtual poster (**_Title: A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars_**) at the Mars Geomorphology session.
+
+**Geological Society of America North-Central Section - 54th Annual Meeting 2020**<br>
+Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901)| May 2020 <br>
+> Presented research (**_Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma_**) virtually at the Glaciation/Deglaciation & All Things Aeolian Session
 
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
