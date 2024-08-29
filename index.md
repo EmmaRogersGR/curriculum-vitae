@@ -204,7 +204,7 @@ _Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
 ## Honors and Awards <br>
-**Ned Smith Field Camp Award, Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences** | May 2021 <br>
+**Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
 _**Scholarship Recipient**_ <br>
 _This award is presented to students attending a field camp in earth sciences and who have demonstrated academic excellence in their field of study._
 
@@ -216,35 +216,35 @@ _I was among the final 15 candidates who were considered for one of the USRA Dis
 _**Teaching and Scholarship Award Winner**_ <br>
 _The Pillars of Excellency scholarship is a way for selected students to be recognized on campus for their achievements. One juniors or senior is chosen who is particularly accomplished in teaching and scholarship as is displayed in their extracurricular and scholarly involvement during their time at Purdue._
 
-**Chevron Scholarship, Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences** | April 2020 <br>
+**Chevron Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2020 <br>
 _**Scholarship Recipient**_ <br>
 _This award, sponsored by Chevron, is provided to recognize academic merit in undergraduate and graduate students who wish to pursue a career in an energy-related field._
 
-**Earth and Atmospheric Sciences’ Class of 1970 Scholarship, Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences** | April 2019; April 2020 <br>
+**Earth and Atmospheric Sciences’ Class of 1970 Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019; April 2020 <br>
 _**Scholarship Recipient**_ <br>
 _A merit-based scholarship to support an exceptional student in the department pursuing a major in earth science._
 
-**Women in Science Program (WISP) Jandos Scholarship, Purdue University** | April 2020 <br>
+**Women in Science Program (WISP) Jandos Scholarship** | Purdue University | April 2020 <br>
 _**Scholarship Recipient**_ <br>
 _The Jandos scholarship program is awarded College of Science students who wish to participate with other students in furthering their understanding of the benefits of living, learning and growing in a diverse university environment._
 
-**Women’s Leadership Series (WLS)** | January 2020 <br>
+**Women’s Leadership Series (WLS)** | Purdue University | January 2020 <br>
 _**Student Scholarship Recipient**_ <br>
 _An annual award for WLS 2019-2020, given to a student who actively participated in all WLS 2019-2020 events and showcases exceptional leadership in their community._
 
-**[Scholarly Project Grant](https://honors.purdue.edu/research/scholarly-project.php), Honors College, Purdue University** | November 2019 <br>
+**[Scholarly Project Grant](https://honors.purdue.edu/research/scholarly-project.php)** | Honors College, Purdue University | November 2019 <br>
 _**Grant Recipient**_ <br>
 _Received an award to support work that built toward completion of my scholarly project, a requirement for graduation from the Honors College._
 
-**Paul P. and Linda L. Krishna Scholarship in Earth and Atmospheric Sciences, Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences** | April 2019 <br>
+**Paul P. and Linda L. Krishna Scholarship in Earth and Atmospheric Sciences** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019 <br>
 _**Scholarship Recipient**_ <br>
 _A merit-based scholarship to support a top scholar in the department pursuing a major in earth science._
 
-**[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php), Honors College, Purdue University** | March 2019 – April 2019 <br>
+**[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php)** | Honors College, Purdue University | March 2019 – April 2019 <br>
 _**First Prize**_ <br>
 _Worked with an interdisciplinary student / faculty team to grapple with the issue of automation and artificial intelligence in order to propose innovative solutions. Our team used extensive research over several weeks, and 48 hours prior to the final presentation, incorporated a specific challenge application to be addressed as part of the proposed solution in a final team presentation._
 
-**Purdue University [Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | August 2018 - December 2021 <br>
+**[Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | Purdue University | August 2018 - December 2021 <br>
 _**Scholarship Recipient**_ <br>
 _A renewable merit-based scholarship rewarding incoming freshman students who display high academic achievement; leadership and service in school/community during high school._ 
 
