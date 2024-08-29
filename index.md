@@ -97,12 +97,14 @@ Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meeti
 **Iceland** (July 1-13, 2024) <br>
 Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog
 >Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic fluvial systems on Mars. <br>
+
 Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog<br>
 >Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on alluvial fan systems.  <br>
 
 **Mojave Desert, CA** (February 22-26, 2023; March 13-21, 2024) <br>
 Globe Alluvial Fan - Arid Martian Terrestrial Analog<br>
 > Led a field expedition to conduct standard Wolman Pebble Counts and GPS cross sectional transects to understand abrasion on this granitic alluvial fan. These data were used to compare to granitic lab experiments isolation fluvial abrasion. <br>
+
 Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog <br>
 > Led a field expedition to conduct standard Wolman Pebble Counts, GPS cross sectional transects, and UAV imagery to understand abrasion on this combined basaltic and granitic alluvial fan. These data were used to compare to granitic and basaltic lab experiments isolation fluvial abrasion. <br>
 
