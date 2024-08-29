@@ -222,7 +222,7 @@ _This award is presented to students attending a field camp in earth sciences an
 
 **Universities Space Research Association Distinguished Undergraduate** | November 2020; October 2021 <br>
 _**Honorable Mention**_ <br>
-_I was among the final 15 candidates who were considered for one of the USRA Distinguished Undergraduate Awards. The USRA Distinguished Undergraduate Awards provide college scholarship awards to students who have shown a career interest in science or engineering with an emphasis on space research or space science education, and aeronautics-related sciences._
+_I was among the final 15 candidates who were considered for one of the [USRA Distinguished Undergraduate](https://www.usra.edu/educational-activities-and-opportunities/usra-distinguished-undergraduate-awards/) Awards. The USRA Distinguished Undergraduate Awards provide college scholarship awards to students who have shown a career interest in science or engineering with an emphasis on space research or space science education, and aeronautics-related sciences._
 
 **Purdue University Homecoming Pillars of Excellency Scholarship** | October 2020 <br>
 _**Teaching and Scholarship Award Winner**_ <br>
