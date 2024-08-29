@@ -232,9 +232,9 @@ _The Jandos scholarship program is awarded College of Science students who wish 
 _**Student Scholarship Recipient**_ <br>
 _An annual award for WLS 2019-2020, given to a student who actively participated in all WLS 2019-2020 events and showcases exceptional leadership in their community._
 
-**[Scholarly Project Grant](https://honors.purdue.edu/research/scholarly-project.php)** | Honors College, Purdue University | November 2019 <br>
+**Scholarly Project Grant** | Honors College, Purdue University | November 2019 <br>
 _**Grant Recipient**_ <br>
-_Received an award to support work that built toward completion of my scholarly project, a requirement for graduation from the Honors College._
+_Received an award to support work that built toward completion of my [scholarly project](https://honors.purdue.edu/research/scholarly-project.php), a requirement for graduation from the Honors College._
 
 **Paul P. and Linda L. Krishna Scholarship in Earth and Atmospheric Sciences** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019 <br>
 _**Scholarship Recipient**_ <br>
