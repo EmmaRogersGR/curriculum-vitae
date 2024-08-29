@@ -313,7 +313,7 @@ _Romania_ <br>
 >Traveled to Romania over Spring Break with the Honors College to study the myths, culture, and impact of the legend of Dracula. We explored many different parts of the country and investigated the cultural sources of Dracula, while learning about the history of the basis of Dracula (Vlad the Impaler), and the legends surrounding his family, ruling periods, and demise. We read the novel "Dracula" by Bram Stoker to be able to compare historical references with pop culture literature.
 
 **International Commission on Large Dams [(ICOLD)](https://www.icold-cigb.org)** <br>
-_**Accompanying Person**_
+_**Accompanying Person**_ <br>
 _Kyoto, Japan (2012); Bali, Indonesia (2013); Prague, Czech Republic (2017); Vienna, Austria (2018); Marseille, France (2022)_ <br>
 >Learned from a young age about cultural differences to be conscious and respectful of when visiting varying parts of the world and made international friendships. This helped me be more concious of empowering diversity within STEM and to be mindful of taking oppportunites to learn from people who have had different life experiences form me.  <br>
 
