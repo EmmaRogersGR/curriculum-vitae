@@ -82,11 +82,11 @@ Lightning Oral Presentation | [Abstract](https://agu.confex.com/agu/fm21/meeting
 > Presented summer research (**_Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater_**) at the Council of Undergraduate Research REU Symposium 2021 in a five minute lightning talk. 
 
 **52nd Lunar and Planetary Science Conference (LPSC) 2021**<br>
-Virtual Poster Presentation |[Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
+Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
 > Presented research (**_Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater_**) virtually at the Modern Mars: Earth, Wind, and Ice Session
 
 **52nd Lunar and Planetary Science Conference (LPSC) 2021**<br>
-Virtual Poster Presentation |[Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
+Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
 > Co-author on the virtual poster (**_Title: A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars_**) at the Mars Geomorphology session.
 
 **Geological Society of America North-Central Section - 54th Annual Meeting 2020**<br>
