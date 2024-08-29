@@ -204,6 +204,11 @@ _Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
 ## Honors and Awards
+**Charles A. & June R.P. Ross Research Grant** | Geological Society of America (GSA)| June 2024 <br>
+_**Grant Recipient**_ <br>
+_The Charles A. & June R.P. Ross Research Fund is awarded to support research projects for graduate students in the fields of stratigraphy and stratigraphic correlation, paleogeography and paleobiogeography, interpreting past environments of deposition and their biological significance, and the integration of these research areas into better global understanding of climate changes and effects of those climate changes on the earth's inhabitants through geologic
+time._
+
 **Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
 _**Scholarship Recipient**_ <br>
 _This award is presented to students attending a field camp in earth sciences and who have demonstrated academic excellence in their field of study._
