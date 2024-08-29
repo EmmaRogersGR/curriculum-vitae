@@ -12,7 +12,6 @@ The GMAP Winter School is focused on the production of planetary geological maps
 
 **Purdue University** (August 2018 - December 2021) <br>
 _**B.S. Geology and Geophysics; Double Major in Planetary Sciences**_ <br>
-GPA: 3.91/4.0<br>
 Honors College, Dean’s List, and Semester Honors (Fall Semester 2018 - Fall Semester 2021)<br>
 [Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
 
