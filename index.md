@@ -120,17 +120,17 @@ _Grade: A+_ <br>
 >Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area. Developed research strategies, collected field observations and measurements, compiled detailed rock descriptions, measured stratigraphic sections, and constructed regional geologic maps and bedrock cross sections. <br>
 
 ## Work Experience
-**Stantec Consulting Services Inc.** | Denver, CO<br>
-_Engineering Intern - Water Power and Dams_ | June 2019 - July 2019 <br>
->Constructed a new field guide for rock & soil identification based on standards from the American Society for Testing and Materials (ASTM), the United States Bureau of Reclamation (USBR), and the International Society for Rock Mechanics (ISRM) to aid geotechnical engineers while they are in the field. <br>
-
->Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
-
 **Honors College and Residences** | Purdue University<br>
 _Resident Honors Preceptor_ | Aug 2019 - Dec 2021 <br>
 >Fostered the development of relationships among 50 undergraduate residents per year, consisting of both first- and second-year students. <br>
 
 >Managed administrative duties including maintenance requests, incident reports, and health and safety inspections and implement educational and recreational programs to assist students in transitioning into the university. <br>
+
+**Stantec Consulting Services Inc.** | Denver, CO<br>
+_Engineering Intern - Water Power and Dams_ | June 2019 - July 2019 <br>
+>Constructed a new field guide for rock & soil identification based on standards from the American Society for Testing and Materials (ASTM), the United States Bureau of Reclamation (USBR), and the International Society for Rock Mechanics (ISRM) to aid geotechnical engineers while they are in the field. <br>
+
+>Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
 
 ## Teaching Experience
 **Teaching Assistant and Lab Instructor: EARS 33 (Earth Surface Processes and Landforms)** | Dartmouth College | March 2024 - May 2024 <br>
