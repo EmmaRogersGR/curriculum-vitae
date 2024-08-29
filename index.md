@@ -5,7 +5,7 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am wor
 ## Education
 **Dartmouth College** (August 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
-_Member of the "Earth and Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._<br>
+_Member of the "Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._<br>
 > **[The University Centre in Svalbard (UNIS)](https://www.unis.no): Arctic Quaternary Environments** (Oct-Nov 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
 > **[Geology & Planetary Mapping (GMAP) Winter School](https://www.planetarymapping.eu/425/program.html)** <br>
 The GMAP Winter School is focused on the production of planetary geological maps of a range of Solar System bodies: building upon earlier editions targeting Mars, the Moon, and Mercury, the 2024 edition covered exemplary geologic mapping aspects on Venus, Icy Satellites and Small Bodies.
@@ -20,9 +20,9 @@ Honors College, Dean’s List, and Semester Honors (Fall 2018 - Fall 2021)<br>
 - **Programming/Software**: <br>
   * Object-Oriented Programming (Python)
   * Data Visualization (MATLAB, Python - Matplotlib)
-  * Geographic Information Systems (ArcGIS Pro, QGIS)
+  * Geographic Information Systems (ArcGIS Pro, QGIS, JMARS)
   * Structure from Motion (SfM) (Agisoft Metashape Professional)
-  * Hyper and Multispectral Image analysis (ENVI)
+  * Hyperspectral and Multispectral Image analysis (ENVI)
 - **Microsoft Office**:<br>
 Word, Excel, PowerPoint, Outlook
 - **Adobe Suite**:<br>
@@ -31,16 +31,34 @@ Illustrator, Photoshop, Lightroom, PremierPro, Acrobat
 English _(Native)_, Spanish _(Beginner)_
 
 ## Research
-**["Ice Future" - Research Group](https://icefuture.org/), Dept. of Earth Sciences, Dartmouth College** <br>
+**[Palucis Planetary Geomorphology Research Group](http://www.marisapalucis.com/research), Dept. of Earth Sciences, Dartmouth College** <br>
 **PhD Candidate** | September 2022 - Present <br>
-> Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College. <br>
-> Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features.
+> Working with PhD advisor, Dr. Marisa Palucis, Dept. of Earth Sciences, Dartmouth College. <br>
+> Reconstructing the transport history of rounded basaltic pebbles on Mars to provide insight into the prevailing martian climate at the time of transport and deposition. We are using laboratory experiments and field campaigns at terrestrial analog environments to advance the state of knowledge regarding basaltic clast transport and abrasion, providing key insights into deciphering the past fluvial conditions on Mars.
 
-**[Pablo Saide Research Group](https://dept.atmos.ucla.edu/saide/home), UCLA** <br>
-**Undergraduate Researcher** | October 2020 - June 2022 <br>
-> Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA. <br>
-> Investigating Doppler Radar data to retrieve fire plume injection heights for the purpose of evaluating air quality and high-resolution fire spread models.
+**[Planetary Surface Processes Research Group](https://www.eaps.purdue.edu/horgan/), Purdue University** <br>
+**Undergraduate Researcher** | May 2020 - Dec 2021 <br>
+> Collaborated on a research project with Dr. Briony Horgan, Dept. of Earth and Planetary Sciences, Purdue University. <br>
+> Evaluated the mineralogical and morphological presence of hydrated silica in the Melas Chasma of Valles Marineris on Mars. This research gave insight into the history of hydrothermal and lacustrine aqueous environments on Mars and may imply possibilities for astrobiological discoveries.
 
+**[Darryl Granger Research Group](https://www.eaps.purdue.edu/people/profile/dgranger.html), Purdue University** <br>
+**Undergraduate Researcher** | Feb 2019 - Dec 2021 <br>
+> Collaborated on a research project with Dr. Darryl Granger, Dept. of Earth and Planetary Sciences, Purdue University. <br>
+> Mapped the distribution of lake sediments that would allow an accurate dating and elevation calculation of Lake Tight, a Pleistocene pro-glacial lake in what is present-day Ohio, Kentucky, and West Virginia. We found evidence of crustal flexure due to glacial ice through field-based analysis of surficial lake sediments as well as within cave systems.
+
+**[Ali Bramson Research Group](https://www.eaps.purdue.edu/bramson/index.html), Purdue University** <br>
+**Undergraduate Science Advisor** | Jan 2021 - May 2021 <br>
+> Collaborated on a project for submission to the [AIAA Space Design Competition 2021](https://www.aiaa.org/get-involved/students-educators/Design-Competitions) with Dr. Ali Bramson, Dept. of Earth and Planetary Sciences, Purdue University. <br>
+> Worked an interdisciplinary team of undergraduates from both engineering and science majors to formulate a hypothetical ice sample return mission, focusing on the science behind mission objectives and science goals, as well as the technological needs and cost estimates.
+
+**[SETI Institute Research Experience for Undergraduates (REU)](https://www.seti.org/research-experience-undergraduates), SETI Institute** <br>
+**Planetary Research Intern** | Jun 2020 - Aug 2020 <br>
+> Collaborated on a project with Dr. Virginia Gulick, SETI Institute for a summer internship research project. <br>
+> Used hydrologic models and digital terrain models to estimate water discharges, volumes, and erosion rates of Martian equatorial gully systems to better understand the implications for paleoclimatic change on Mars.
+
+**[Lunar and Planetary Institute (LPI) Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/), LPI** <br>
+**Planetary Research Intern** | Jun 2020 <br>
+> Selected for the Lunar and Planetary Institute’s Summer Intern Program in Planetary Science, 2020 (program cancelled as a result of COVID-19 pandemic).
 
 ## Publications
 **Research**:<br>
