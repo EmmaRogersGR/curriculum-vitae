@@ -78,7 +78,7 @@ E-lightning Presentation and Poster | [Abstract](https://agu.confex.com/agu/fm21
 > Presented research (**_Title: A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma_**) at the Coupling of the Cryosphere, Solid Earth, Surface, and Climate in Shaping Late Cenozoic Topography eLightning session.
 
 **Council of Undergraduate Research REU Symposium 2021**<br>
-Lightning Oral Presentation | [Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/910572)| October 2021 <br>
+Lightning Oral Presentation | [Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/910572) | October 2021 <br>
 > Presented summer research (**_Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater_**) at the Council of Undergraduate Research REU Symposium 2021 in a five minute lightning talk. 
 
 **52nd Lunar and Planetary Science Conference (LPSC) 2021**<br>
@@ -90,7 +90,7 @@ Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2
 > Co-author on the virtual poster (**_Title: A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars_**) at the Mars Geomorphology session.
 
 **Geological Society of America North-Central Section - 54th Annual Meeting 2020**<br>
-Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901)| May 2020 <br>
+Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901) | May 2020 <br>
 > Presented research (**_Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma_**) virtually at the Glaciation/Deglaciation & All Things Aeolian Session
 
 ## Field Experience
@@ -118,7 +118,7 @@ _Linking alluvial fan morphology and sedimentology with formation processes via 
 
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** (June 2021 - July 2021) <br>
 _Grade: A+_ <br>
->Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area.Learned to develop research strategies, collect field observations and measurements, compile detailed rock descriptions, measure stratigraphic sections, and construct geologic maps and cross sections. <br>
+>Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area. Developed research strategies, collected field observations and measurements, compiled detailed rock descriptions, measured stratigraphic sections, and constructed regional geologic maps and bedrock cross sections. <br>
 
 ## Work Experience
 **Stantec Consulting Services Inc.** Denver, CO<br>
@@ -133,32 +133,40 @@ _Resident Honors Preceptor_ | Aug 2019 - Dec 2021 <br>
 
 >Managed administrative duties including maintenance requests, incident reports, and health and safety inspections and implement educational and recreational programs to assist students in transitioning into the university. <br>
 
-
 ## Teaching Experience
-**Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
-Volunteer Learning Assistant <br>
-> Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
-> Helped with curriculum development of Intro to Programming (Python) workshops.
-> 
-## Honors and Awards
+**Teaching Assistant and Lab Instructor: EARS 33 (Earth Surface Processes and Landforms), Dartmouth College** | March 2024 - May 2024 <br>
+_30 students_ <br>
+>This course is an introduction to geomorphology – the study of the mechanisms that shape the Earth’s surface. Students learned about river, glacial, hillslope, and wind-driven processes, and the resulting landforms and landscapes they produce.
+
+**Teaching Assistant: EARS 34 (Earth’s Biogeochemical Cycles), Dartmouth College** | March 2023 - June 2023 <br>
+_15 students_ <br>
+>This course is a survey of biogeochemical interactions among Earth’s crust, oceans, and atmosphere, including perturbations due to human activities. Particular attention is given to carbon, nitrogen, phosphorus, and sulfur biogeochemical cycles and the role of these cycles in applied environmental challenges.
+
+**Teaching and Lab Assistant: EAPS 11200 (Earth Through Time), Purdue University** | August 2020 - December 2020 <br>
+_30 students_ <br>
+>This course teaches the history of the planet Earth from its beginnings to the present. This explored how scientists interpret Earth history from the geologic record. The laboratory provided hands-on experience in interpreting various geologic and fossil records.
+
+**Teaching and Lab Assistant: EAPS 11100 (Physical Geology), Purdue University** | January 2021 - May 2021 <br>
+_30 students_ <br>
+>This course teaches geologic processes and the development of land forms. Laboratory covers the study of minerals and rocks, the interpretations of topographic and geologic maps, and field investigations.
+
+**Teaching Assistant: EAPS 10600 (Geoscience in the Cinema), Purdue University** | August 2020 – May 2021
+_900+ students_ <br>
+>This course is an introduction to earth and atmospheric sciences based on depictions of natural disasters in popular and documentary cinema. Lectures focused on discussion of the relevant science, separating fact from fiction, and disaster management.
+
+**Private Tutor: Calculus, Honors College, Purdue University** | January 2018 – May 2020
+_2 students_ <br>
+>Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
+
+## Leadership and Involvement
 **Mathematical Contest in Modelling** | February 2022 <br>
 _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
-## Mini Research Projects
-**Glaciology in Machine Learning Summer School Group Project** <br>
-Inverting for viscosity (with sparse ice thickness) ft. PINNs | June 2024 <br>
-> Collaborated on a physics-informed machine learning group project, with project advisor Dr. Ching-Yao Lai (Stanford University).
-> Worked on implementing a physics-informed neural network to infer the spatially-variable ice viscosity for a floating ice shelf; we used sparse ice thickness values in our inversion that was representative of the sparse ground-truth ice thickness data.
-
-**Karthaus Summer School Group Project** <br>
-Glacier Hydrology Modeling | May 2024 <br>
-> Collaborated on a glacier hydrology modeling group project, with project advisor Dr. Ian Hewitt (Oxford University).
-> Explored the effect of varying the volume of supraglacial water input to the subglacial hydrological system and the effect of the bed topography on the ice sheet velocity. 
-
-**Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project** <br>
-Shallow Shelf Approximation using the Finite Element Method | [GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
-> Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf.
+## Honors and Awards
+**Mathematical Contest in Modelling** | February 2022 <br>
+_**Designation of Honorable Mention**_ <br>
+_Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
 ## Outreach
 **Graphic Design for Science Communication** <br>
