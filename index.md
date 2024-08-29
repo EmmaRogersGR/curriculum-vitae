@@ -96,23 +96,23 @@ Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meeti
 ## Field Experience
 **Iceland** (July 1-13, 2024) <br>
 Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog
->Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic fluvial systems on Mars.
-Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog
->Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on alluvial fan systems.  
+>Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic fluvial systems on Mars. <br>
+Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog<br>
+>Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on alluvial fan systems.  <br>
 
 **Mojave Desert, CA** (February 22-26, 2023; March 13-21, 2024) <br>
-Globe Alluvial Fan - Arid Martian Terrestrial Analog
-> Led a field expedition to conduct standard Wolman Pebble Counts and GPS cross sectional transects to understand abrasion on this granitic alluvial fan. These data were used to compare to granitic lab experiments isolation fluvial abrasion. 
-Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog
-> Led a field expedition to conduct standard Wolman Pebble Counts, GPS cross sectional transects, and UAV imagery to understand abrasion on this combined basaltic and granitic alluvial fan. These data were used to compare to granitic and basaltic lab experiments isolation fluvial abrasion. 
+Globe Alluvial Fan - Arid Martian Terrestrial Analog<br>
+> Led a field expedition to conduct standard Wolman Pebble Counts and GPS cross sectional transects to understand abrasion on this granitic alluvial fan. These data were used to compare to granitic lab experiments isolation fluvial abrasion. <br>
+Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog <br>
+> Led a field expedition to conduct standard Wolman Pebble Counts, GPS cross sectional transects, and UAV imagery to understand abrasion on this combined basaltic and granitic alluvial fan. These data were used to compare to granitic and basaltic lab experiments isolation fluvial abrasion. <br>
 
 **Longyearbyen, Svalbard** (October 2023 - December 2023) <br>
-AG-826: Arctic Quaternary Environments
-> Conducted two day-long field trips around Longyearbyen, Svalbard to understand indicators of past ice sheets left behind in the Quaternary geologic record, including raised beaches, morraines, and varves. 
+AG-826: Arctic Quaternary Environments <br>
+> Conducted two day-long field trips around Longyearbyen, Svalbard to understand indicators of past ice sheets left behind in the Quaternary geologic record, including raised beaches, morraines, and varves. <br>
 
 **Atacama Desert, Chile** (January 8-20, 2023) <br>
 Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies <br>
->Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars.
+>Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars.<br>
 
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** (June 2021 - July 2021) <br>
 Grade: A+ <br>
