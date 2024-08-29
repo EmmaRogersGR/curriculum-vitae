@@ -6,14 +6,14 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am wor
 **Dartmouth College** (August 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 _Member of the "Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis._<br>
-> **[The University Centre in Svalbard (UNIS)](https://www.unis.no): Arctic Quaternary Environments** (Oct-Nov 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
+> **[The University Centre in Svalbard (UNIS)](https://www.unis.no): AG-826: Arctic Quaternary Environments** (Oct 2023 - Dec 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
 > **[Geology & Planetary Mapping (GMAP) Winter School](https://www.planetarymapping.eu/425/program.html)** <br>
 The GMAP Winter School is focused on the production of planetary geological maps of a range of Solar System bodies: building upon earlier editions targeting Mars, the Moon, and Mercury, the 2024 edition covered exemplary geologic mapping aspects on Venus, Icy Satellites and Small Bodies.
 
 **Purdue University** (August 2018 - December 2021) <br>
 _**B.S. Geology and Geophysics; Double Major in Planetary Sciences**_ <br>
 GPA: 3.91/4.0<br>
-Honors College, Dean’s List, and Semester Honors (Fall 2018 - Fall 2021)<br>
+Honors College, Dean’s List, and Semester Honors (Fall Semester 2018 - Fall Semester 2021)<br>
 [Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
 
 ## Skills
@@ -95,26 +95,42 @@ Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meeti
 
 ## Field Experience
 **Iceland** (July 1-13, 2024) <br>
-> Iceland stuff
+Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog
+>Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic fluvial systems on Mars.
+Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog
+>Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on alluvial fan systems.  
 
-**Mojave Desert, CA** (Feb 22-26, 2023; March 13-21, 2024) <br>
-> Mojave stuff
+**Mojave Desert, CA** (February 22-26, 2023; March 13-21, 2024) <br>
+Globe Alluvial Fan - Arid Martian Terrestrial Analog
+> Led a field expedition to conduct standard Wolman Pebble Counts and GPS cross sectional transects to understand abrasion on this granitic alluvial fan. These data were used to compare to granitic lab experiments isolation fluvial abrasion. 
+Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog
+> Led a field expedition to conduct standard Wolman Pebble Counts, GPS cross sectional transects, and UAV imagery to understand abrasion on this combined basaltic and granitic alluvial fan. These data were used to compare to granitic and basaltic lab experiments isolation fluvial abrasion. 
 
-**Atacama Desert, Chile** (Jan 8-20, 2023) <br>
+**Longyearbyen, Svalbard** (October 2023 - December 2023) <br>
+AG-826: Arctic Quaternary Environments
+> Conducted two day-long field trips around Longyearbyen, Svalbard to understand indicators of past ice sheets left behind in the Quaternary geologic record, including raised beaches, morraines, and varves. 
+
+**Atacama Desert, Chile** (January 8-20, 2023) <br>
 Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies <br>
 >Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars.
 
-**[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** (Jun 2021 - Jul 2021) <br>
+**[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** (June 2021 - July 2021) <br>
 Grade: A+ <br>
->Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area. <br>
->Emphasis on scientific methodology and traditional geologic techniques that provide a strong foundation for the broad range of modern technologies used by today’s industry, academic, government and private workforces. <br>
->Learned to develop research strategies, collect field observations and measurements, compile detailed rock descriptions, measure stratigraphic sections, and construct geologic maps and cross sections. <br>
+>Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area.Learned to develop research strategies, collect field observations and measurements, compile detailed rock descriptions, measure stratigraphic sections, and construct geologic maps and cross sections. <br>
 
 ## Work Experience
-**[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
-Data Journalist | October 2020 - June 2022 <br>
-> Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
-> Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog).
+**Stantec Consulting Services Inc.** Denver, CO<br>
+Engineering Intern - Water Power and Dams | June 2019 - July 2019 <br>
+>Constructed a new field guide for rock & soil identification based on standards from the American Society for Testing and Materials (ASTM), the United States Bureau of Reclamation (USBR), and the International Society for Rock Mechanics (ISRM) to aid geotechnical engineers while they are in the field. <br>
+
+>Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
+
+**Honors College and Residences** Purdue University<br>
+Resident Honors Preceptor | Aug 2019 - Dec 2021 <br>
+>Fostered the development of relationships among 50 undergraduate residents per year, consisting of both first- and second-year students. <br>
+
+>Managed administrative duties including maintenance requests, incident reports, and health and safety inspections and implement educational and recreational programs to assist students in transitioning into the university. <br>
+
 
 ## Teaching Experience
 **Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
