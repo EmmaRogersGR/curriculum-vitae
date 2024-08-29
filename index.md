@@ -95,40 +95,40 @@ Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meeti
 
 ## Field Experience
 **Iceland** (July 1-13, 2024) <br>
-Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog
+_Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog_ <br>
 >Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic fluvial systems on Mars. <br>
 
-Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog<br>
+_Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog_ <br>
 >Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on alluvial fan systems.  <br>
 
 **Mojave Desert, CA** (February 22-26, 2023; March 13-21, 2024) <br>
-Globe Alluvial Fan - Arid Martian Terrestrial Analog<br>
+_Globe Alluvial Fan - Arid Martian Terrestrial Analog_ <br>
 > Led a field expedition to conduct standard Wolman Pebble Counts and GPS cross sectional transects to understand abrasion on this granitic alluvial fan. These data were used to compare to granitic lab experiments isolation fluvial abrasion. <br>
 
-Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog <br>
+_Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog_ <br>
 > Led a field expedition to conduct standard Wolman Pebble Counts, GPS cross sectional transects, and UAV imagery to understand abrasion on this combined basaltic and granitic alluvial fan. These data were used to compare to granitic and basaltic lab experiments isolation fluvial abrasion. <br>
 
 **Longyearbyen, Svalbard** (October 2023 - December 2023) <br>
-AG-826: Arctic Quaternary Environments <br>
+_AG-826: Arctic Quaternary Environments_ <br>
 > Conducted two day-long field trips around Longyearbyen, Svalbard to understand indicators of past ice sheets left behind in the Quaternary geologic record, including raised beaches, morraines, and varves. <br>
 
 **Atacama Desert, Chile** (January 8-20, 2023) <br>
-Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies <br>
+_Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies_ <br>
 >Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars.<br>
 
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** (June 2021 - July 2021) <br>
-Grade: A+ <br>
+_Grade: A+_ <br>
 >Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area.Learned to develop research strategies, collect field observations and measurements, compile detailed rock descriptions, measure stratigraphic sections, and construct geologic maps and cross sections. <br>
 
 ## Work Experience
 **Stantec Consulting Services Inc.** Denver, CO<br>
-Engineering Intern - Water Power and Dams | June 2019 - July 2019 <br>
+_Engineering Intern - Water Power and Dams_ | June 2019 - July 2019 <br>
 >Constructed a new field guide for rock & soil identification based on standards from the American Society for Testing and Materials (ASTM), the United States Bureau of Reclamation (USBR), and the International Society for Rock Mechanics (ISRM) to aid geotechnical engineers while they are in the field. <br>
 
 >Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
 
 **Honors College and Residences** Purdue University<br>
-Resident Honors Preceptor | Aug 2019 - Dec 2021 <br>
+_Resident Honors Preceptor_ | Aug 2019 - Dec 2021 <br>
 >Fostered the development of relationships among 50 undergraduate residents per year, consisting of both first- and second-year students. <br>
 
 >Managed administrative duties including maintenance requests, incident reports, and health and safety inspections and implement educational and recreational programs to assist students in transitioning into the university. <br>
