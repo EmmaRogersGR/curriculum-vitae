@@ -150,8 +150,8 @@ _30 students_ <br>
 _30 students_ <br>
 >This course teaches geologic processes and the development of land forms. Laboratory covers the study of minerals and rocks, the interpretations of topographic and geologic maps, and field investigations.
 
-**Teaching Assistant: EAPS 10600 (Geoscience in the Cinema), Purdue University** | August 2020 – May 2021
-_900+ students_ <br>
+**Teaching Assistant: EAPS 10600 (Geoscience in the Cinema), Purdue University** | August 2020 – May 2021 <br>
+_1000 students_ <br>
 >This course is an introduction to earth and atmospheric sciences based on depictions of natural disasters in popular and documentary cinema. Lectures focused on discussion of the relevant science, separating fact from fiction, and disaster management.
 
 **Private Tutor: Calculus, Honors College, Purdue University** | January 2018 – May 2020
@@ -159,18 +159,40 @@ _2 students_ <br>
 >Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
 
 ## Leadership and Involvement
-**Mathematical Contest in Modelling** | February 2022 <br>
-_**Designation of Honorable Mention**_ <br>
-_Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
+**American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committe](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
+_**Student Committee Member**_ <br>
+_Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee_ <br>
+_Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting_ <br>
+_Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community._
 
 ## Honors and Awards
-**Mathematical Contest in Modelling** | February 2022 <br>
-_**Designation of Honorable Mention**_ <br>
-_Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
+**Disney Scholars Program** | August 2018 - December 2021 <br>
+_**Scholarship Receipient**_ <br>
+_A renewable merit-based scholarship rewarding graduating high school seniors who are children of a Disney employee of The Walt Disney Company or its affiliated companies, and who display high academic achievement and leadership in high school._
 
 ## Outreach
+**Geoscience Education & Mentorship Support [(GEMS)](https://gems-program.org)** | August 2022 - cont. <br>
+_**Mentor**_ <br>
+>Mentored two undergraduate students by assisting them with finding a research lab at their universities, applying to summer research internships, and working through the graduate school application process.
+
+**Mentoring Institute for Sediment Transport Researchers [(MIST)](https://www.mist365.com)** | September 2023 - September 2024 <br>
+_**Mentee**_ <br>
+>MIST is an NSF-funded mentoring network that connects early career professionals (mentees) who worked on problems related to sediment transport with accomplished mid-career and senior professionals (mentors).
+
+**[Science Day](https://www.flickr.com/photos/gradoffice/albums/72177720307469700/) at Dartmouth, Guarini School of Graduate and Advanced Studies** | April 2023; April 2024 <br>
+_**Earth Sciences Department Lead**_ <br>
+>Developed a curriculum for and instructed over 500 K-12 students about meteorites and sedimentary, metamorphic, and igneous rock formation and identification during the Guarini Graduate School-sponsored ‘Science Day’. 
+
+**[Montshire](https://montshire.org/exhibit/exhibits/indoor-discovery-exhibits/) Museum of Science** | March 2024 - cont. <br>
+_**Guest Scientist**_ <br>
+>Developed a curriculum for and instructed children and parents who visited the museum about meteorite identification and formation. 
+
+**Earth, Atmospheric, and Planetary Sciences Department, Purdue University** | August 2018, August 2019 <br>
+_**Passport Day Volunteer**_ <br>
+> Taught K-12 students at an annual outreach event called Passport Day, where graduate and undergraduate students from EAPS engage with the local community through hands-on activities related to Earth sciences, space, weather and climate. 
+
 **Graphic Design for Science Communication** <br>
-A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. I am open to inquiries about creating designs for field expeditions, lab groups, and more! <br>
+A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. _**I am open to inquiries about creating designs for field expeditions, lab groups, and more!**_ <br>
 >'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/AtacamaMissionPatch.png" width="300" height="300"> <br>
 >'Mission Patch' for Iceland Field work conducted in July 2024 <br>
