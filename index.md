@@ -161,9 +161,11 @@ _2 students_ <br>
 ## Leadership and Involvement
 **American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committe](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
 _**Student Committee Member**_ <br>
-_Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee_ <br>
-_Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting_ <br>
-_Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community._
+>Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee <br>
+
+>Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
+
+>Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
 
 ## Honors and Awards
 **Disney Scholars Program** | August 2018 - December 2021 <br>
