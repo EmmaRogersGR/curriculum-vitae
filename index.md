@@ -93,6 +93,23 @@ Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2
 Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901)| May 2020 <br>
 > Presented research (**_Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma_**) virtually at the Glaciation/Deglaciation & All Things Aeolian Session
 
+## Field Experience
+**Iceland** (July 1-13, 2024) <br>
+> Iceland stuff
+
+**Mojave Desert, CA** (Feb 22-26, 2023; March 13-21, 2024) <br>
+> Mojave stuff
+
+**Atacama Desert, Chile** (Jan 8-20, 2023) <br>
+Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies <br>
+>Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars.
+
+**[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** (Jun 2021 - Jul 2021) <br>
+Grade: A+ <br>
+>Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area. <br>
+>Emphasis on scientific methodology and traditional geologic techniques that provide a strong foundation for the broad range of modern technologies used by today’s industry, academic, government and private workforces. <br>
+>Learned to develop research strategies, collect field observations and measurements, compile detailed rock descriptions, measure stratigraphic sections, and construct geologic maps and cross sections. <br>
+
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
 Data Journalist | October 2020 - June 2022 <br>
