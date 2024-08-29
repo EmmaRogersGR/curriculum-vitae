@@ -158,13 +158,17 @@ _2 students_ <br>
 >Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
 
 ## Leadership and Involvement
-**American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committe](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
+**American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committee](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
 _Student Committee Member_ <br>
 >Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee <br>
 
 >Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
 
 >Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
+
+**Like-A-Rock Student Committee** | Dept. of Earth Science, Dartmouth College | May 2023 - cont. <br>
+_Student Committee Member_ <br>
+>Organized and managed the new student Mentoring Program for new earth science graduate students (Like-A-Rock), including planning six community building events such as an overnight camping trip to Mt. Moosilauke and a canoe barbeque at Gilman Island. <br>
 
 **Dartmouth Graduate Student Council [(GSC)](https://gsc.dartmouth.edu)** | August 2022 - August 2023 <br>
 _Earth Sciences Department Representative_ <br>
