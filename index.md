@@ -167,7 +167,47 @@ _**Student Committee Member**_ <br>
 
 >Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
 
-## Honors and Awards
+**Dartmouth Graduate Student Council [(GSC)](https://gsc.dartmouth.edu)** | August 2022 - August 2023 <br>
+_**Earth Sciences Department Representative**_ <br>
+> Represented the Earth Sciences department to the GSC in the form of voting on motions proposed in the meetings and bringing forward proposals from the EARS department. <br>
+
+_**Service Committee Member**_ <br>
+>Coordinated and organized the ideas and logistics for various GSC-led service events in the community, including dinner at the local food pantry and a clothing drive for those affected by the Turkey earthquakes. <br>
+
+_**Mentorship Committee Member**_ <br>						         
+>Worked with other members to provide a comprehensive resource list for graduate students struggling in an abusive advisor/advisee relationship and created a prototype exit interview to give to graduate students to poll their experience at Dartmouth and in their respective Labs.
+
+**Purdue University Geological Society [(PUGS)](https://www.eaps.purdue.edu/for_students/student-orgs.html)** | August 2018 - December 2021 <br>
+_**President** | January 2020 - May 2021_ <br>
+> Organized and conducted meetings on a bi-monthy basis focused on professional and social development, including seminars from academic and industry professionals, a research peer editing seminar, and an educational field trip to Turkey Run State Park. <br>
+
+_**Vice President** | August 2019 - December 2019_ <br>
+> Organized and implemented outreach to incoming EAPS students in order to increase club membership and foster diversity. <br>
+
+**Purdue University College of Science [Student Ambassador](https://www.purdue.edu/science/future-students/ambassadors/index.html)** | May 2019 - December 2021 <br>
+_**Earth, Atmospheric, and Planetary Sciences Department Lead** | May 2020 - May 2021_ <br>
+> Assisted prospective students in their decision of major and university by providing them with personal experiences, campus resources, and experiential advice. Organized the EAPS Department ambassadors to assure that the ambassadors fulfilled their duties. <br>
+
+**Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences** | August 2020 - December 2021 <br>
+_**Earth, Atmospheric, and Planetary Sciences Department Ambassador** | August 2020 - December 2021_ <br>
+> Introduced prospective students to the Earth, Atmospheric, and Planetary Sciences Department, and provided them with [insight](https://www.facebook.com/EAPSPurdue/videos/emma-rogers-eaps-ambassador/327840185112185/) into the academic and student life within the department.   <br>
+
+**Women’s Leadership Series [(WLS)](https://www.housing.purdue.edu/campus-living/residential-learning/wls.html)** | Aug 2019 - May 2021 <br>
+_**Mentee**_ <br>
+> The Women's Leadership Series connected me with professional mentors and to other Boilermakers who seeked ways to grow professionally and to build their confidence. I was selected via nomination by my Resident Honors Preceptor supervisor. 
+
+**Purdue University Honors College Student Committees** <br>
+_**Leadership Resources Committee Chair** | August 2020 – May 2021 <br>
+> Collaborated with other Resident Honors Preceptors in the Honors College to ensure that the resource room is fully stocked, organized, and clean. <br>
+
+_**Residential Society Liaison** | August 2019 – May 2020_ <br>
+> Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
+
+## Honors and Awards <br>
+**[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php), Honors College, Purdue University** | March 2019 – April 2019 <br>
+_**First Prize**_ <br>
+_Worked with an interdisciplinary student / faculty team to grapple with the issue of automation and artificial intelligence in order to propose innovative solutions. Our team used extensive research over several weeks, and 48 hours prior to the final presentation, incorporated a specific challenge application to be addressed as part of the proposed solution in a final team presentation.
+
 **Disney Scholars Program** | August 2018 - December 2021 <br>
 _**Scholarship Recipient**_ <br>
 _A renewable merit-based scholarship rewarding graduating high school seniors who are children of a Disney employee of The Walt Disney Company or its affiliated companies, and who display high academic achievement and leadership in high school._
@@ -192,6 +232,10 @@ _**Guest Scientist**_ <br>
 **Earth, Atmospheric, and Planetary Sciences Department, Purdue University** | August 2018, August 2019 <br>
 _**Passport Day Volunteer**_ <br>
 > Taught K-12 students at an annual outreach event called Passport Day, where graduate and undergraduate students from EAPS engage with the local community through hands-on activities related to Earth sciences, space, weather and climate. 
+
+**Women in Science Program [(WISP)](https://www.purdue.edu/science/wisp/), Purdue University** | August 2018 – May 2021 <br>
+_**Mentor** | August 2019 – May 2021_ <br>
+> Worked with other women in science to form a community group that supported each other in both academic and non-academic activities and was assigned a fellow woman in science to mentor and help through the challenges that come with transitioning to college and into a male-dominated major. Coordinated initiatives focused on diversity, such as DEI seminars with guest speakers from the WISP community. 
 
 **Graphic Design for Science Communication** <br>
 A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. _**I am open to inquiries about creating designs for field expeditions, lab groups, and more!**_ <br>
