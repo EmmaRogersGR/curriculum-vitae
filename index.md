@@ -160,7 +160,7 @@ _2 students_ <br>
 
 ## Leadership and Involvement
 **American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committe](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
-_**Student Committee Member**_ <br>
+_Student Committee Member_ <br>
 >Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee <br>
 
 >Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
@@ -168,39 +168,39 @@ _**Student Committee Member**_ <br>
 >Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
 
 **Dartmouth Graduate Student Council [(GSC)](https://gsc.dartmouth.edu)** | August 2022 - August 2023 <br>
-_**Earth Sciences Department Representative**_ <br>
+_Earth Sciences Department Representative_ <br>
 > Represented the Earth Sciences department to the GSC in the form of voting on motions proposed in the meetings and bringing forward proposals from the EARS department. <br>
 
-_**Service Committee Member**_ <br>
+_Service Committee Member_ <br>
 >Coordinated and organized the ideas and logistics for various GSC-led service events in the community, including dinner at the local food pantry and a clothing drive for those affected by the Turkey earthquakes. <br>
 
-_**Mentorship Committee Member**_ <br>						         
+_Mentorship Committee Member_ <br>						         
 >Worked with other members to provide a comprehensive resource list for graduate students struggling in an abusive advisor/advisee relationship and created a prototype exit interview to give to graduate students to poll their experience at Dartmouth and in their respective Labs.
 
 **Purdue University Geological Society [(PUGS)](https://www.eaps.purdue.edu/for_students/student-orgs.html)** | August 2018 - December 2021 <br>
-_**President** | January 2020 - May 2021_ <br>
+_President | January 2020 - May 2021_ <br>
 > Organized and conducted meetings on a bi-monthy basis focused on professional and social development, including seminars from academic and industry professionals, a research peer editing seminar, and an educational field trip to Turkey Run State Park. <br>
 
-_**Vice President** | August 2019 - December 2019_ <br>
+_Vice President | August 2019 - December 2019_ <br>
 > Organized and implemented outreach to incoming EAPS students in order to increase club membership and foster diversity. <br>
 
 **Purdue University College of Science [Student Ambassador](https://www.purdue.edu/science/future-students/ambassadors/index.html)** | May 2019 - December 2021 <br>
-_**Earth, Atmospheric, and Planetary Sciences Department Lead** | May 2020 - May 2021_ <br>
+_Earth, Atmospheric, and Planetary Sciences Department Lead | May 2020 - May 2021_ <br>
 > Assisted prospective students in their decision of major and university by providing them with personal experiences, campus resources, and experiential advice. Organized the EAPS Department ambassadors to assure that the ambassadors fulfilled their duties. <br>
 
 **Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences** | August 2020 - December 2021 <br>
-_**Earth, Atmospheric, and Planetary Sciences Department Ambassador** | August 2020 - December 2021_ <br>
+_Earth, Atmospheric, and Planetary Sciences Department Ambassador | August 2020 - December 2021_ <br>
 > Introduced prospective students to the Earth, Atmospheric, and Planetary Sciences Department, and provided them with [insight](https://www.facebook.com/EAPSPurdue/videos/emma-rogers-eaps-ambassador/327840185112185/) into the academic and student life within the department.   <br>
 
 **Women’s Leadership Series [(WLS)](https://www.housing.purdue.edu/campus-living/residential-learning/wls.html)** | Aug 2019 - May 2021 <br>
-_**Mentee**_ <br>
+_Mentee_ <br>
 > The Women's Leadership Series connected me with professional mentors and to other Boilermakers who seeked ways to grow professionally and to build their confidence. I was selected via nomination by my Resident Honors Preceptor supervisor. 
 
 **Purdue University Honors College Student Committees** <br>
-_**Leadership Resources Committee Chair** | August 2020 – May 2021 <br>
+_Leadership Resources Committee Chair | August 2020 – May 2021 <br>
 > Collaborated with other Resident Honors Preceptors in the Honors College to ensure that the resource room is fully stocked, organized, and clean. <br>
 
-_**Residential Society Liaison** | August 2019 – May 2020_ <br>
+_Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
 ## Honors and Awards <br>
