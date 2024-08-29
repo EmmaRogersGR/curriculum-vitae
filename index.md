@@ -1,6 +1,6 @@
 _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth. I am working with Dr. Marisa Palucis. Previously an undergraduate researcher with Dr. Briony Horgan and Dr. Darryl Granger at Purdue University. My primary research interests include Terrestrial Analogs, Sedimentology, Geomorphology, and Science Communication for bridging Earth and Planetary Sciences._
 
-[Email Me!](mailto:emma.rogers.gr@dartmouth.edu) | [ORCiD](https://orcid.org/0009-0002-5001-0971)
+[Email Me!](mailto:emma.rogers.gr@dartmouth.edu) | [ORCiD](https://orcid.org/0009-0002-5001-0971) | [Early Career Spotlight](https://connect.agu.org/epsp/spotlight/oct-2023)
 
 ## Education
 **Dartmouth College** (August 2022 - Present) <br>
@@ -208,6 +208,14 @@ _Residential Society Liaison | August 2019 – May 2020_ <br>
 _**Grant Recipient**_ <br>
 _The Charles A. & June R.P. Ross Research Fund is awarded to support research projects for graduate students in the fields of stratigraphy and stratigraphic correlation, paleogeography and paleobiogeography, interpreting past environments of deposition and their biological significance, and the integration of these research areas into better global understanding of climate changes and effects of those climate changes on the earth's inhabitants through geologic
 time._
+
+**NSF Graduate Research Fellowship Program [(GRFP)](https://www.nsfgrfp.org)** | National Science Foundation | May 2024 <br>
+_**Honorable Mention**_ <br>
+_The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. A goal of the program is to broaden participation of the full spectrum of diverse talents in STEM._
+
+**Earth and Planetary Surface Processes Early Career Spotlight** | AGU EPSP | October 2023 <br>
+_**October Spotlight**_ <br>
+_The [EPSP Early Career Spotlight](https://connect.agu.org/epsp/spotlight/oct-2023) is meant to highlight exciting new science coming from students and postdocs and is run by the EPSP Student Committee. This initiative is committed to promoting diversity and inclusion in the AGU EPSP community._
 
 **Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
 _**Scholarship Recipient**_ <br>
