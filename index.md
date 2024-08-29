@@ -203,7 +203,7 @@ _Leadership Resources Committee Chair | August 2020 – May 2021_ <br>
 _Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
-## Honors and Awards <br>
+## Honors and Awards
 **Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
 _**Scholarship Recipient**_ <br>
 _This award is presented to students attending a field camp in earth sciences and who have demonstrated academic excellence in their field of study._
@@ -277,7 +277,7 @@ _**Passport Day Volunteer**_ <br>
 _**Mentor** | August 2019 – May 2021_ <br>
 > Worked with other women in science to form a community group that supported each other in both academic and non-academic activities and was assigned a fellow woman in science to mentor and help through the challenges that come with transitioning to college and into a male-dominated major. Coordinated initiatives focused on diversity, such as DEI seminars with guest speakers from the WISP community. 
 
-**Graphic Design for Science Communication** <br>
+## Graphic Design for Science Communication
 A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. _**I am open to inquiries about creating designs for field expeditions, lab groups, and more!**_ <br>
 >'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/AtacamaMissionPatch.png" width="300" height="300"> <br>
