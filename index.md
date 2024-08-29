@@ -47,9 +47,8 @@ _**Undergraduate Researcher**_ | Feb 2019 - Dec 2021 <br>
 _**Undergraduate Science Advisor**_ | Jan 2021 - May 2021 <br>
 > Collaborated on a project for submission to the [AIAA Space Design Competition 2021](https://www.aiaa.org/get-involved/students-educators/Design-Competitions) with an interdisciplinary team of engineering and science undergraduates to formulate a hypothetical ice sample return mission, focusing on the science behind mission objectives and science goals, as well as the technological needs and cost estimates.
 
-**[SETI Institute Research Experience for Undergraduates (REU)](https://www.seti.org/research-experience-undergraduates), SETI Institute** <br>
+**[SETI Institute Research Experience for Undergraduates (REU)](https://www.seti.org/research-experience-undergraduates), Dr. Virginia Gulick, SETI Institute** <br>
 _**Planetary Research Intern**_ | Jun 2020 - Aug 2020 <br>
-> Collaborated on a project with Dr. Virginia Gulick, SETI Institute for a summer internship research project. <br>
 > Used hydrologic models and digital terrain models to estimate water discharges, volumes, and erosion rates of Martian equatorial gully systems to better understand the implications for paleoclimatic change on Mars.
 
 **[Lunar and Planetary Institute (LPI) Summer Intern Program in Planetary Science](https://www.lpi.usra.edu/lpiintern/), LPI** <br>
