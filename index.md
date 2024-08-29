@@ -169,7 +169,7 @@ _**Student Committee Member**_ <br>
 
 ## Honors and Awards
 **Disney Scholars Program** | August 2018 - December 2021 <br>
-_**Scholarship Receipient**_ <br>
+_**Scholarship Recipient**_ <br>
 _A renewable merit-based scholarship rewarding graduating high school seniors who are children of a Disney employee of The Walt Disney Company or its affiliated companies, and who display high academic achievement and leadership in high school._
 
 ## Outreach
@@ -203,3 +203,20 @@ A personal passion project to make designs focused around projects within my gro
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Matt_Patch.png" width="300" height="300"><br>
 >Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/2023_AGU_EPSP_Sticker.png" width="300" height="300"> <br>
+
+## Cultural Experience
+**Graduate Student Educational Field Trip, Dept. of Earth Sciences (EARS), Dartmouth College** | June 2023 <br>
+_Cyprus_ <br>
+>Traveled to Cyprus with EARS graduate students to study the rich geologic and anthropologic history of the country, including but not limited to the Troodos Ophiolite Sequence, the Messinian Salinity Crisis, and the Tomb of the Kings Paphos Archeological Site. 
+
+**Spring Break Study Abroad: Transylvania- Dracula and Beyond, Purdue University, Honors College** | March 2019 <br>
+_Romania_ <br>
+>Traveled to Romania over Spring Break with the Honors College to study the myths, culture, and impact of the legend of Dracula. We explored many different parts of the country and investigated the cultural sources of Dracula, while learning about the history of the basis of Dracula (Vlad the Impaler), and the legends surrounding his family, ruling periods, and demise. We read the novel "Dracula" by Bram Stoker to be able to compare historical references with pop culture literature.
+
+**International Commission on Large Dams [(ICOLD)](https://www.icold-cigb.org)** <br>
+_**Accompanying Person**_
+_Kyoto, Japan (2012); Bali, Indonesia (2013); Prague, Czech Republic (2017); Vienna, Austria (2018); Marseille, France (2022)_ <br>
+>Learned from a young age about cultural differences to be conscious and respectful of when visiting varying parts of the world and made international friendships. This helped me be more concious of empowering diversity within STEM and to be mindful of taking oppportunites to learn from people who have had different life experiences form me.  <br>
+
+>Discussed science and engineering concepts associated with applications to hydropower with members from over 100 different countries.
+
