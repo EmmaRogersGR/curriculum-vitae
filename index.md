@@ -197,16 +197,32 @@ _Mentee_ <br>
 > The Women's Leadership Series connected me with professional mentors and to other Boilermakers who seeked ways to grow professionally and to build their confidence. I was selected via nomination by my Resident Honors Preceptor supervisor. 
 
 **Purdue University Honors College Student Committees** <br>
-_Leadership Resources Committee Chair | August 2020 – May 2021 <br>
+_Leadership Resources Committee Chair | August 2020 – May 2021_ <br>
 > Collaborated with other Resident Honors Preceptors in the Honors College to ensure that the resource room is fully stocked, organized, and clean. <br>
 
 _Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
 ## Honors and Awards <br>
+**Purdue University Homecoming Pillars of Excellence** | October 2020 <br>
+_**Teaching and Scholarship Award Winner**_ <br>
+> The Pillars of Excellency scholarship is a way for selected students to be recognized on campus for their achievements. One juniors or senior is chosen who is particularly accomplished in teaching and scholarship as is displayed in their extracurricular and scholarly involvement during their time at Purdue. 
+
+**Women’s Leadership Series (WLS)** | January 2020 <br>
+_**Student Scholarship Recipient**_ <br>
+> An annual award for WLS 2019-2020, given to a student who actively participated in all WLS 2019-2020 events and showcases exceptional leadership in their community. 
+
+**[Scholarly Project Grant](https://honors.purdue.edu/research/scholarly-project.php), Honors College, Purdue University** | November 2019 <br>
+_**Grant Recipient**_ <br>
+> Received an award to support work that built toward completion of my scholarly project, a requirement for graduation from the Honors College.
+
 **[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php), Honors College, Purdue University** | March 2019 – April 2019 <br>
 _**First Prize**_ <br>
 _Worked with an interdisciplinary student / faculty team to grapple with the issue of automation and artificial intelligence in order to propose innovative solutions. Our team used extensive research over several weeks, and 48 hours prior to the final presentation, incorporated a specific challenge application to be addressed as part of the proposed solution in a final team presentation.
+
+**Purdue University [Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | August 2018 - December 2021 <br>
+_**Scholarship Recipient**_ <br>
+> A renewable merit-based scholarship rewarding incoming freshman students who display high academic achievement; leadership and service in school/community during high school. 
 
 **Disney Scholars Program** | August 2018 - December 2021 <br>
 _**Scholarship Recipient**_ <br>
