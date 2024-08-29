@@ -31,25 +31,21 @@ Illustrator, Photoshop, Lightroom, PremierPro, Acrobat
 English _(Native)_, Spanish _(Beginner)_
 
 ## Research
-**[Palucis Planetary Geomorphology Research Group](http://www.marisapalucis.com/research), Dept. of Earth Sciences, Dartmouth College** <br>
+**[Palucis Planetary Geomorphology Research Group](http://www.marisapalucis.com/research), Dr. Marisa Palucis, Dept. of Earth Sciences, Dartmouth College** <br>
 **PhD Candidate** | September 2022 - Present <br>
-> Working with PhD advisor, Dr. Marisa Palucis, Dept. of Earth Sciences, Dartmouth College. <br>
 > Reconstructing the transport history of rounded basaltic pebbles on Mars to provide insight into the prevailing martian climate at the time of transport and deposition. We are using laboratory experiments and field campaigns at terrestrial analog environments to advance the state of knowledge regarding basaltic clast transport and abrasion, providing key insights into deciphering the past fluvial conditions on Mars.
 
-**[Planetary Surface Processes Research Group](https://www.eaps.purdue.edu/horgan/), Purdue University** <br>
+**[Planetary Surface Processes Research Group](https://www.eaps.purdue.edu/horgan/), Dr. Briony Horgan, Dept. of Earth and Planetary Sciences, Purdue University** <br>
 **Undergraduate Researcher** | May 2020 - Dec 2021 <br>
-> Collaborated on a research project with Dr. Briony Horgan, Dept. of Earth and Planetary Sciences, Purdue University. <br>
 > Evaluated the mineralogical and morphological presence of hydrated silica in the Melas Chasma of Valles Marineris on Mars. This research gave insight into the history of hydrothermal and lacustrine aqueous environments on Mars and may imply possibilities for astrobiological discoveries.
 
-**[Darryl Granger Research Group](https://www.eaps.purdue.edu/people/profile/dgranger.html), Purdue University** <br>
+**[Darryl Granger Research Group](https://www.eaps.purdue.edu/people/profile/dgranger.html), Dr. Darryl Granger, Dept. of Earth and Planetary Sciences, Purdue University** <br>
 **Undergraduate Researcher** | Feb 2019 - Dec 2021 <br>
-> Collaborated on a research project with Dr. Darryl Granger, Dept. of Earth and Planetary Sciences, Purdue University. <br>
 > Mapped the distribution of lake sediments that would allow an accurate dating and elevation calculation of Lake Tight, a Pleistocene pro-glacial lake in what is present-day Ohio, Kentucky, and West Virginia. We found evidence of crustal flexure due to glacial ice through field-based analysis of surficial lake sediments as well as within cave systems.
 
-**[Ali Bramson Research Group](https://www.eaps.purdue.edu/bramson/index.html), Purdue University** <br>
+**[Ali Bramson Research Group](https://www.eaps.purdue.edu/bramson/index.html), Dr. Ali Bramson, Dept. of Earth and Planetary Sciences, Purdue University** <br>
 **Undergraduate Science Advisor** | Jan 2021 - May 2021 <br>
-> Collaborated on a project for submission to the [AIAA Space Design Competition 2021](https://www.aiaa.org/get-involved/students-educators/Design-Competitions) with Dr. Ali Bramson, Dept. of Earth and Planetary Sciences, Purdue University. <br>
-> Worked an interdisciplinary team of undergraduates from both engineering and science majors to formulate a hypothetical ice sample return mission, focusing on the science behind mission objectives and science goals, as well as the technological needs and cost estimates.
+> Collaborated on a project for submission to the [AIAA Space Design Competition 2021](https://www.aiaa.org/get-involved/students-educators/Design-Competitions) with an interdisciplinary team of engineering and science undergraduates to formulate a hypothetical ice sample return mission, focusing on the science behind mission objectives and science goals, as well as the technological needs and cost estimates.
 
 **[SETI Institute Research Experience for Undergraduates (REU)](https://www.seti.org/research-experience-undergraduates), SETI Institute** <br>
 **Planetary Research Intern** | Jun 2020 - Aug 2020 <br>
