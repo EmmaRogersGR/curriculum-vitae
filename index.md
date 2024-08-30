@@ -213,7 +213,7 @@ _The Charles A. & June R.P. Ross Research Fund is awarded to support research pr
 time._
 
 **NSF Graduate Research Fellowship Program [(GRFP)](https://www.nsfgrfp.org)** | National Science Foundation | May 2024 <br>
-_**Honorable Mention**_ <br>
+_**Distinction of Honorable Mention**_ <br>
 _The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. A goal of the program is to broaden participation of the full spectrum of diverse talents in STEM._
 
 **Earth and Planetary Surface Processes Early Career Spotlight** | AGU EPSP | October 2023 <br>
@@ -225,7 +225,7 @@ _**Scholarship Recipient**_ <br>
 _This award is presented to students attending a field camp in earth sciences and who have demonstrated academic excellence in their field of study._
 
 **Universities Space Research Association Distinguished Undergraduate** | November 2020; October 2021 <br>
-_**Honorable Mention**_ <br>
+_**Distinction of Honorable Mention**_ <br>
 _I was among the final 15 candidates who were considered for one of the [USRA Distinguished Undergraduate](https://www.usra.edu/educational-activities-and-opportunities/usra-distinguished-undergraduate-awards/) Awards. The USRA Distinguished Undergraduate Awards provide college scholarship awards to students who have shown a career interest in science or engineering with an emphasis on space research or space science education, and aeronautics-related sciences._
 
 **Purdue University Homecoming Pillars of Excellency Scholarship** | October 2020 <br>
