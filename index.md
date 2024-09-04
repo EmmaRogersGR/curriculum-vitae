@@ -300,7 +300,8 @@ _**Mentor** | August 2019 – May 2021_ <br>
 ## Graphic Design for Science Communication
 A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. _**I am open to inquiries about creating designs for field expeditions, lab groups, and more!**_ <br>
 >'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
-> ![AtacamaMissionPatch.png]({{site.baseurl}}/img/AtacamaMissionPatch.png)
+> ![AtacamaMissionPatch.png]({{ site.baseurl }}/img/AtacamaMissionPatch.png)
+>
 
 >'Mission Patch' for Iceland Field work conducted in July 2024 <br>
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Iceland_Patch.png" width="300" height="300"><br>
