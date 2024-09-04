@@ -99,10 +99,10 @@ Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meeti
 ## Field Experience
 **Iceland** | July 1-13, 2024 <br>
 _Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog | July 1-6, 2024_ <br>
->Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic fluvial systems on Mars. <br>
+>Used standard Wolman Pebble Counts, GPR transects, Infiltrometers, and Ebee Drone Imagery to analyze the sediment flux and abrasion experienced by basalt on the alluvial plain for comparision to basaltic 'cold and icy' fluvial systems on Mars. <br>
 
 _Fjallabak Nature Preserve & Höfn Alluvial Fan - Cold and Icy Martian Terrestrial Analog | July 7-13, 2024_ <br>
->Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on alluvial fan systems.  <br>
+>Assisted a reasearch team from the Smithsonian National Air & Space Museum Center for Earth and Planetary Studies in their sample collection on two alluvial fans for Visible and Near Infrared (VNIR) spectral analysis in order to understand chemical alteration of rock on 'cold and icy' alluvial fan systems.  <br>
 
 **Mojave Desert, CA** | February 22-26, 2023; March 13-21, 2024 <br>
 _Globe Alluvial Fan - Arid Martian Terrestrial Analog | February 22-26, 2023; March 13-17, 2024_ <br>
@@ -117,7 +117,7 @@ _AG-826: Arctic Quaternary Environments_ <br>
 
 **Atacama Desert, Chile** | January 8-20, 2023 <br>
 _Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies_ <br>
->Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars.<br>
+>Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars and environmental evolution post-glaciation in the Atacama Desert.<br>
 
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** | June 2021 - July 2021 <br>
 _Grade: A+_ <br>
