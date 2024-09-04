@@ -157,7 +157,7 @@ _30 students_ <br>
 _1000 students_ <br>
 >This course is an introduction to earth and atmospheric sciences based on depictions of natural disasters in popular and documentary cinema. Lectures focused on discussion of the relevant science, separating fact from fiction, and disaster management.
 
-**Private Tutor: Calculus** | Honors College, Purdue University | January 2018 – May 2020
+**Private Tutor: Calculus** | Honors College, Purdue University | January 2018 – May 2020 <br>
 _2 students_ <br>
 >Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
 
