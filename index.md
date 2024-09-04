@@ -2,7 +2,7 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth College w
 
 [Email Me!](mailto:emma.rogers.gr@dartmouth.edu)  |  [ORCiD](https://orcid.org/0009-0002-5001-0971)  |  [Early Career Spotlight](https://connect.agu.org/epsp/spotlight/oct-2023)
 
-## Education
+## Education and Certifications
 **Dartmouth College** (August 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 Member of the "Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis.<br>
@@ -14,6 +14,10 @@ The GMAP Winter School is focused on the production of planetary geological maps
 _**B.S. Geology and Geophysics; Double Major in Planetary Sciences**_ <br>
 Honors College, Dean’s List, and Semester Honors (Fall Semester 2018 - Fall Semester 2021)<br>
 [Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
+
+**Wilderness First Responder** (Expiration: 12/31/2025) <br>
+_**Wilderness Medical Associates**_ <br>
+[Certificate](: Emma Rogers has successfully achieved the above certification which includes epinephrine administration to treat anaphylaxis and severe asthma, and BLS CPR which includes adult, child, and infant CPR as well as the use of medical oxygen and AED<br>
 
 ## Skills
 - **Programming/Software**: <br>
