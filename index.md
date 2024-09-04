@@ -56,8 +56,9 @@ _**Planetary Research Intern**_ | Jun 2020 <br>
 
 ## Publications
 **Research**:<br>
-- Rogers, E. R., Qualizza, B. R., Heidenreich, J. R., Dawson, H. G., & Horgan, B. H. N. (2023). Silica‐Bearing Mounds and Strata in the Southwest Melas Basin, Valles Marineris, Mars: Evidence for a Hydrothermal Origin. Journal of Geophysical Research: Planets, 128(11), e2023JE007881. [https://doi.org/10.1029/2023JE007881](https://doi.org/10.1029/2023JE007881) <br>
-- Rogers, E. R., Granger, D. E. (In Prep), A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma. Earth Surface Processes and Landforms. <br>
+Rogers, E. R., Qualizza, B. R., Heidenreich, J. R., Dawson, H. G., & Horgan, B. H. N. (2023). Silica‐Bearing Mounds and Strata in the Southwest Melas Basin, Valles Marineris, Mars: Evidence for a Hydrothermal Origin. Journal of Geophysical Research: Planets, 128(11), e2023JE007881. [https://doi.org/10.1029/2023JE007881](https://doi.org/10.1029/2023JE007881) <br>
+
+Rogers, E. R., Granger, D. E. (In Prep), A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma. Earth Surface Processes and Landforms. <br>
 
 ## Presentations
 **[Upcoming] Geological Society of America (GSA) Connects 2024** <br>
