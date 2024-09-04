@@ -60,6 +60,10 @@ _**Planetary Research Intern**_ | Jun 2020 <br>
 - Rogers, E. R., Granger, D. E. (In Prep), A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma. Earth Surface Processes and Landforms. <br>
 
 ## Presentations
+**[Upcoming] Geological Society of America (GSA) Connects 2024** <br>
+Oral Presentation | [Abstract](https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/403332) | September 2024
+>Will present research (**_Title: Nature abhors an angle: Using clast morphometry to reconstruct sediment transport history on Mars_**) at the GSA Connects 2024 conference, in the Best Practices and Exciting Discoveries in Identifying, Mapping, and Analyzing Planetary Landforms and Terrestrial Analogues session.
+
 **Second Workshop on Terrestrial Analogs for Planetary Exploration 2024**<br>
 Virtual Oral Presentation | [Abstract](https://www.hou.usra.edu/meetings/terrestrialanalogs2024/pdf/8016.pdf) | August 2024 <br>
 > Presented research (**_Title: Reconstructing basaltic sediment transport on Mars using clast morphometry_**) at the Second Workshop on Terrestrial Analogs for Planetary Exploration 2024, hosted at the Northern Arizona University (NAU), in a 12-minute virtual oral presentation.
