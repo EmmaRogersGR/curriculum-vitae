@@ -310,7 +310,7 @@ A personal passion project to make designs focused around projects within my gro
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Matt_Patch.png" width="300" height="300"><br>
 
 >Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/2023_AGU_EPSP_Sticker.png" width="300" height="300"> <br>
+><figure><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/2023_AGU_EPSP_Sticker.png" width="300" height="300"></figure> <br>
 
 ## Cultural Experience
 **Graduate Student Educational Field Trip, Dept. of Earth Sciences (EARS), Dartmouth College** | June 2023 <br>
