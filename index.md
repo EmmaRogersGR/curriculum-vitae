@@ -298,9 +298,15 @@ _**Mentor** | August 2019 – May 2021_ <br>
 > Worked with other women in science to form a community group that supported each other in both academic and non-academic activities and was assigned a fellow woman in science to mentor and help through the challenges that come with transitioning to college and into a male-dominated major. Coordinated initiatives focused on diversity, such as DEI seminars with guest speakers from the WISP community. 
 
 ## Graphic Design for Science Communication
+<style>
+ .markdown-block img{
+  width:300;
+  height:300;
+ }
+</style>
 A personal passion project to make designs focused around projects within my group as well as for other organizations I am involved in. _**I am open to inquiries about creating designs for field expeditions, lab groups, and more!**_ <br>
 >'Mission Patch' for Atacama Desert Field work conducted in January 2023 <br>
-> ![AtacamaMissionPatch.png]({{ site.baseurl }}/img/AtacamaMissionPatch.png){width='300', height="300"} <br>
+> ![AtacamaMissionPatch.png]({{ site.baseurl }}/img/AtacamaMissionPatch.png) <br>
 
 >'Mission Patch' for Iceland Field work conducted in July 2024 <br>
 ><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Iceland_Patch.png" width="300" height="300"><br>
