@@ -309,13 +309,13 @@ A personal passion project to make designs focused around projects within my gro
 > ![AtacamaMissionPatch.png]({{ site.baseurl }}/img/AtacamaMissionPatch.png) <br>
 
 >'Mission Patch' for Iceland Field work conducted in July 2024 <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Iceland_Patch.png" width="300" height="300"><br>
+> ![Iceland_Patch.png]({{ site.baseurl }}/img/Iceland_Patch.png) <br>
 
 >Design made for a Master's thesis done by Matt Maclay, which centered on investigating the conditions that led to the fall of the 'Old Man on the Mountain' and [outreach](https://storymaps.arcgis.com/stories/e71c010c785d4ee4b1b15cea746a34c9) to the New Hampshire community   <br>
-><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/Matt_Patch.png" width="300" height="300"><br>
+> ![Matt_Patch.png]({{ site.baseurl }}/img/Matt_Patch.png) <br>
 
 >Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
-><figure><img src="https://github.com/EmmaRogersGR/curriculum-vitae/blob/main/img/2023_AGU_EPSP_Sticker.png" width="300" height="300"></figure> <br>
+> ![2023_AGU_EPSP_Sticker.png]({{ site.baseurl }}/img/2023_AGU_EPSP_Sticker.png) <br>
 
 ## Cultural Experience
 **Graduate Student Educational Field Trip, Dept. of Earth Sciences (EARS), Dartmouth College** | June 2023 <br>
