@@ -61,7 +61,7 @@ _**Planetary Research Intern**_ | Jun 2020 <br>
 ## Publications
 **Rogers, E. R.**, Qualizza, B. R., Heidenreich, J. R., Dawson, H. G., & Horgan, B. H. N. (2023). Silica‐Bearing Mounds and Strata in the Southwest Melas Basin, Valles Marineris, Mars: Evidence for a Hydrothermal Origin. Journal of Geophysical Research: Planets, 128(11), e2023JE007881. [https://doi.org/10.1029/2023JE007881](https://doi.org/10.1029/2023JE007881) <br>
 
-Wilner, J. A., Nordin, B. J., Getraer, A., Gregoire, R. M., Krishna, M., Li, J., Pickell, D. J., **Rogers, E. R.**, McDannell, K. T., Palucis, M. C., & Keller, C. B., Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales.Sci. Adv.10,eadr2009(2024).[DOI:10.1126/sciadv.adr2009](https://doi.org/10.1126/sciadv.adr2009) <br>
+Wilner, J. A., Nordin, B. J., Getraer, A., Gregoire, R. M., Krishna, M., Li, J., Pickell, D. J., **Rogers, E. R.**, McDannell, K. T., Palucis, M. C., & Keller, C. B., Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales. Science Advances. 10, eadr2009 (2024).[DOI:10.1126/sciadv.adr2009](https://doi.org/10.1126/sciadv.adr2009) <br>
 
 **Rogers, E. R.**, Granger, D. E. (In Prep), A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma. Earth Surface Processes and Landforms. <br>
 
