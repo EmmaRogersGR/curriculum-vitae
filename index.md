@@ -6,7 +6,8 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth College w
 **Dartmouth College** (August 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 Member of the "Planetary Geomorphology" - Research Group, advised by Dr. Marisa Palucis.<br>
-> **[The University Centre in Svalbard (UNIS)](https://www.unis.no): AG-826: Arctic Quaternary Environments** (Oct 2023 - Dec 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
+> **[The University Centre in Svalbard (UNIS)](https://www.unis.no):<br>
+> AG-826: Arctic Quaternary Environments** (Oct 2023 - Dec 2023)<br> Intensive training on interpreting Quaternary environments in the Arctic using Sea Level Change, Geochronology, Ice Sheet Models, and Geomorphology.<br>
 > **[Geology & Planetary Mapping (GMAP) Winter School 2024](https://www.planetarymapping.eu/425/program.html)** <br>
 The GMAP Winter School is focused on the production of planetary geological maps of a range of Solar System bodies: building upon earlier editions targeting Mars, the Moon, and Mercury, the 2024 edition covered exemplary geologic mapping aspects on Venus, Icy Satellites and Small Bodies.
 
