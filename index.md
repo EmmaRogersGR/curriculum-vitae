@@ -179,15 +179,17 @@ _2 students_ <br>
 
 ## Leadership and Involvement
 **American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committee](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
-_Student Committee Member_ <br>
+_Student Committee Chair <br>
 >Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee <br>
 
 >Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
 
 >Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
 
+**Graduate Student Chair** | Dept. of Earth Science, Dartmouth College | August 2024 - cont. <br>
+>Organized and managed the graduate students in the Earth Science Department, including all-student town halls once per term, interfacing with department faculty, and organizing a student advisory committee for the upcoming departmental faculty search. <br>
+
 **Like-A-Rock Student Committee** | Dept. of Earth Science, Dartmouth College | May 2023 - cont. <br>
-_Student Committee Member_ <br>
 >Organized and managed the new student Mentoring Program for new earth science graduate students (Like-A-Rock), including planning six community building events such as an overnight camping trip to Mt. Moosilauke and a canoe barbeque at Gilman Island. <br>
 
 **Dartmouth Graduate Student Council [(GSC)](https://gsc.dartmouth.edu)** | August 2022 - August 2023 <br>
