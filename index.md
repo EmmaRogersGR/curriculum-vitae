@@ -179,7 +179,7 @@ _2 students_ <br>
 
 ## Leadership and Involvement
 **American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committee](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
-_Student Committee Chair <br>
+_Student Committee Chair_ <br>
 >Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee <br>
 
 >Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
