@@ -127,9 +127,12 @@ _Lucy Gray Alluvial Fan - Arid Martian Terrestrial Analog | March 18-21, 2024_ <
 _AG-826: Arctic Quaternary Environments_ <br>
 > Conducted two day-long field trips around Longyearbyen, Svalbard to understand indicators of past ice sheets left behind in the Quaternary geologic record, including raised beaches, morraines, and varves. <br>
 
-**Atacama Desert, Chile** | January 8-20, 2023 <br>
+**Atacama Desert, Chile** | January 8-20, 2023; December 1-14, 2024  <br>
 _Linking alluvial fan morphology and sedimentology with formation processes via martian analog studies_ <br>
 >Two-week field excursion to the Atacama Desert to assist in measuring mudflow depth, compile and analyze stratigraphic sections, take ground penetrating radar cross sections, and map alluvial fan morphology to infer depositional processes on Mars and environmental evolution post-glaciation in the Atacama Desert.<br>
+_Constraining the paleoclimate of the Northeastern Atacama Desert using stratigraphic relationships_	 <br>
+>Two-week field excursion to the Atacama Desert to assist UAV aerial imagery of salars near San Pedro de Atacama for astrobiologic comparisons. Compiled and analyzed stratigraphic sections, took samples for luminescence geochronology, mapped alluvial fan morphology, and took UAV aerial imagery to infer depositional processes and developing hyperaridity on Mars.  <br>
+
 
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** | June 2021 - July 2021 <br>
 _Grade: A+_ <br>
