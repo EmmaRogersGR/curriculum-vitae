@@ -16,7 +16,7 @@ _**B.S. Geology and Geophysics; Double Major in Planetary Sciences**_ <br>
 Honors College, Dean’s List, and Semester Honors (Fall Semester 2018 - Fall Semester 2021)<br>
 [Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
 
-**Wilderness First Responder** (Expiration: 12/31/2025) <br>
+**Wilderness First Responder** (Expiration: 12/31/2028) <br>
 _**Wilderness Medical Associates**_ <br>
 Emma Rogers has successfully achieved the above certification which includes epinephrine administration to treat anaphylaxis and severe asthma, and BLS CPR which includes adult, child, and infant CPR as well as the use of medical oxygen and AED<br>
 
@@ -65,13 +65,21 @@ _**Planetary Research Intern**_ | Jun 2020 <br>
 > Selected for the Lunar and Planetary Institute’s Summer Intern Program in Planetary Science, 2020 (program cancelled as a result of COVID-19 pandemic).
 
 ## Publications
+**Gehringer, E. R.**, Ferrari, G., Morgan, A. M., & Palucis, M. C. (2025). Using Clast Morphometry to Reconstruct Basaltic Sediment Transport History. Journal of Geophysical Research: Planets, 130(11), e2025JE009154. [https://doi.org/10.1029/2025JE009154](https://doi.org/10.1029/2025JE009154) <br>
+
 **Rogers, E. R.**, Qualizza, B. R., Heidenreich, J. R., Dawson, H. G., & Horgan, B. H. N. (2023). Silica‐Bearing Mounds and Strata in the Southwest Melas Basin, Valles Marineris, Mars: Evidence for a Hydrothermal Origin. Journal of Geophysical Research: Planets, 128(11), e2023JE007881. [https://doi.org/10.1029/2023JE007881](https://doi.org/10.1029/2023JE007881) <br>
 
 Wilner, J. A., Nordin, B. J., Getraer, A., Gregoire, R. M., Krishna, M., Li, J., Pickell, D. J., **Rogers, E. R.**, McDannell, K. T., Palucis, M. C., & Keller, C. B., Limits to timescale dependence in erosion rates: Quantifying glacial and fluvial erosion across timescales. Science Advances. 10, eadr2009 (2024).[DOI:10.1126/sciadv.adr2009](https://doi.org/10.1126/sciadv.adr2009) <br>
 
+**Gehringer, E. R.**, Craddock, R. A., Morgan, A. M., Palucis, M. C. (In review at Journal of Geophysical Research: Planets). The Influence of Climate on Basaltic Clast Morphometry as an Indicator of Martian Paleoclimate.[https://doi.org/10.22541/essoar.177135718.89081877/v1](https://doi.org/10.22541/essoar.177135718.89081877/v1)<br> 
+
 **Rogers, E. R.**, Granger, D. E. (In Prep), A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma. Earth Surface Processes and Landforms. <br>
 
 ## Presentations
+**56th Lunar and Planetary Science Conference 2025** <br>
+Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1539.pdf) | March 2025
+> Presented research (**_Title: Climatic implications of rounded basaltic clasts on Mars from terrestrial field analogs_**) at the Fluvial Geomorphology of Mars: Sediment Transport and Basin Evolution session.
+
 **Geological Society of America (GSA) Connects 2024** <br>
 Oral Presentation | [Abstract](https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/403332) | September 2024
 >Will present research (**_Title: Nature abhors an angle: Using clast morphometry to reconstruct sediment transport history on Mars_**) at the GSA Connects 2024 conference, in the Best Practices and Exciting Discoveries in Identifying, Mapping, and Analyzing Planetary Landforms and Terrestrial Analogues session.
