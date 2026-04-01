@@ -82,7 +82,7 @@ Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2025/pdf/
 
 **Geological Society of America (GSA) Connects 2024** <br>
 Oral Presentation | [Abstract](https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/403332) | September 2024
->Will present research (**_Title: Nature abhors an angle: Using clast morphometry to reconstruct sediment transport history on Mars_**) at the GSA Connects 2024 conference, in the Best Practices and Exciting Discoveries in Identifying, Mapping, and Analyzing Planetary Landforms and Terrestrial Analogues session.
+>Presented research (**_Title: Nature abhors an angle: Using clast morphometry to reconstruct sediment transport history on Mars_**) at the GSA Connects 2024 conference, in the Best Practices and Exciting Discoveries in Identifying, Mapping, and Analyzing Planetary Landforms and Terrestrial Analogues session.
 
 **Second Workshop on Terrestrial Analogs for Planetary Exploration 2024**<br>
 Virtual Oral Presentation | [Abstract](https://www.hou.usra.edu/meetings/terrestrialanalogs2024/pdf/8016.pdf) | [Presentation](https://www.hou.usra.edu/meetings/terrestrialanalogs2024/presentations/Monday/1230_Rogers.pdf) | [Recording](https://www.youtube.com/watch?v=PM8iP0v-LUQ) | August 2024 <br>
@@ -161,7 +161,11 @@ _Engineering Intern - Water Power and Dams_ | June 2019 - July 2019 <br>
 >Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
 
 ## Teaching Experience
-**Teaching Assistant and Lab Instructor: EARS 33 (Earth Surface Processes and Landforms)** | Dartmouth College | March 2024 - May 2024 <br>
+**Teaching Assistant and Field Instructor: EARS 45-47 (Field Methods)** | Dartmouth College | September 2025 - October 2025 <br>
+_25 students_ <br>
+>The Department of Earth Sciences has offered an off-campus field program, also known as the "Stretch", since the mid-1960s. The Stretch is among the most storied and longest-lived off-campus programs at Dartmouth, and it consists of a roughly two-month traverse across the western United States and Canada where students are directly engaged in field-based data collection and analysis.
+
+**Teaching Assistant and Lab Instructor: EARS 33 (Earth Surface Processes and Landforms)** | Dartmouth College | March 2024 - May 2024, 2025 <br>
 _30 students_ <br>
 >This course is an introduction to geomorphology – the study of the mechanisms that shape the Earth’s surface. Students learned about river, glacial, hillslope, and wind-driven processes, and the resulting landforms and landscapes they produce.
 
@@ -186,15 +190,17 @@ _2 students_ <br>
 >Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
 
 ## Leadership and Involvement
-**American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committee](https://connect.agu.org/epsp/about/students)** | May 2023 - cont. <br>
+**American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committee](https://connect.agu.org/epsp/about/students)** | May 2023 - May 2026. <br>
 _Student Committee Chair_ <br>
+>Interfaced with EPSP Section leadership. <br>
+
 >Led the AGU EPSP Student committee’s Promotions and Networking sub-committees, served on the Mentoring sub-committee <br>
 
->Organized and managed the New Student Mentoring Program for 2023 and 2024, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
+>Organized and managed the New Student Mentoring Program, including adapting the mentee and mentor application, assigning mentor-mentee pairs, managing the kickoff meeting, and planning an in-person meeting at the Fall 2023 AGU meeting <br>
 
->Created the 2024 EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
+>Created the EPSP sticker design competition to combine arts and sciences with outreach to the EPSP community.
 
-**Graduate Student Chair** | Dept. of Earth Science, Dartmouth College | August 2024 - cont. <br>
+**Graduate Student Chair** | Dept. of Earth Science, Dartmouth College | August 2024 - August 2025. <br>
 >Organized and managed the graduate students in the Earth Science Department, including all-student town halls once per term, interfacing with department faculty, and organizing a student advisory committee for the upcoming departmental faculty search. <br>
 
 **Like-A-Rock Student Committee** | Dept. of Earth Science, Dartmouth College | May 2023 - cont. <br>
@@ -237,66 +243,56 @@ _Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
 ## Honors and Awards
+**Future Investigators in NASA Earth and Space Science and Technology (FINESST F.5)** | NASA| June 2024 <br>
+_**Grant Recipient**_ <br>
+
+**GSA Graduate Student Research Grant** | Geological Society of America (GSA)| June 2025 <br>
+_**Grant Recipient**_ <br>
+
 **Charles A. & June R.P. Ross Research Grant** | Geological Society of America (GSA)| June 2024 <br>
 _**Grant Recipient**_ <br>
-_The Charles A. & June R.P. Ross Research Fund is awarded to support research projects for graduate students in the fields of stratigraphy and stratigraphic correlation, paleogeography and paleobiogeography, interpreting past environments of deposition and their biological significance, and the integration of these research areas into better global understanding of climate changes and effects of those climate changes on the earth's inhabitants through geologic
-time._
 
 **NSF Graduate Research Fellowship Program [(GRFP)](https://www.nsfgrfp.org)** | National Science Foundation | May 2024 <br>
 _**Distinction of Honorable Mention**_ <br>
-_The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. A goal of the program is to broaden participation of the full spectrum of diverse talents in STEM._
 
 **Earth and Planetary Surface Processes Early Career Spotlight** | AGU EPSP | October 2023 <br>
 _**October Spotlight**_ <br>
-_The [EPSP Early Career Spotlight](https://connect.agu.org/epsp/spotlight/oct-2023) is meant to highlight exciting new science coming from students and postdocs and is run by the EPSP Student Committee. This initiative is committed to promoting diversity and inclusion in the AGU EPSP community._
 
 **Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
 _**Scholarship Recipient**_ <br>
-_This award is presented to students attending a field camp in earth sciences and who have demonstrated academic excellence in their field of study._
 
 **Universities Space Research Association Distinguished Undergraduate** | November 2020; October 2021 <br>
 _**Distinction of Honorable Mention**_ <br>
-_I was among the final 15 candidates who were considered for one of the [USRA Distinguished Undergraduate](https://www.usra.edu/educational-activities-and-opportunities/usra-distinguished-undergraduate-awards/) Awards. The USRA Distinguished Undergraduate Awards provide college scholarship awards to students who have shown a career interest in science or engineering with an emphasis on space research or space science education, and aeronautics-related sciences._
 
 **Purdue University Homecoming Pillars of Excellency Scholarship** | October 2020 <br>
 _**Teaching and Scholarship Award Winner**_ <br>
-_The Pillars of Excellency scholarship is a way for selected students to be recognized on campus for their achievements. One juniors or senior is chosen who is particularly accomplished in teaching and scholarship as is displayed in their extracurricular and scholarly involvement during their time at Purdue._
 
 **Chevron Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2020 <br>
 _**Scholarship Recipient**_ <br>
-_This award, sponsored by Chevron, is provided to recognize academic merit in undergraduate and graduate students who wish to pursue a career in an energy-related field._
 
 **Earth and Atmospheric Sciences’ Class of 1970 Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019; April 2020 <br>
 _**Scholarship Recipient**_ <br>
-_A merit-based scholarship to support an exceptional student in the department pursuing a major in earth science._
 
 **Women in Science Program (WISP) Jandos Scholarship** | Purdue University | April 2020 <br>
 _**Scholarship Recipient**_ <br>
-_The Jandos scholarship program is awarded College of Science students who wish to participate with other students in furthering their understanding of the benefits of living, learning and growing in a diverse university environment._
 
 **Women’s Leadership Series (WLS)** | Purdue University | January 2020 <br>
 _**Student Scholarship Recipient**_ <br>
-_An annual award for WLS 2019-2020, given to a student who actively participated in all WLS 2019-2020 events and showcases exceptional leadership in their community._
 
 **Scholarly Project Grant** | Honors College, Purdue University | November 2019 <br>
 _**Grant Recipient**_ <br>
-_Received an award to support work that built toward completion of my [scholarly project](https://honors.purdue.edu/research/scholarly-project.php), a requirement for graduation from the Honors College._
 
 **Paul P. and Linda L. Krishna Scholarship in Earth and Atmospheric Sciences** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019 <br>
 _**Scholarship Recipient**_ <br>
-_A merit-based scholarship to support a top scholar in the department pursuing a major in earth science._
 
 **[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php)** | Honors College, Purdue University | March 2019 – April 2019 <br>
 _**First Prize**_ <br>
-_Worked with an interdisciplinary student / faculty team to grapple with the issue of automation and artificial intelligence in order to propose innovative solutions. Our team used extensive research over several weeks, and 48 hours prior to the final presentation, incorporated a specific challenge application to be addressed as part of the proposed solution in a final team presentation._
 
 **[Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | Purdue University | August 2018 - December 2021 <br>
 _**Scholarship Recipient**_ <br>
-_A renewable merit-based scholarship rewarding incoming freshman students who display high academic achievement; leadership and service in school/community during high school._ 
 
 **Disney Scholars Program** | August 2018 - December 2021 <br>
 _**Scholarship Recipient**_ <br>
-_A renewable merit-based scholarship rewarding graduating high school seniors who are children of a Disney employee of The Walt Disney Company or its affiliated companies, and who display high academic achievement and leadership in high school._
 
 ## Outreach
 **Geoscience Education & Mentorship Support [(GEMS)](https://gems-program.org)** | August 2022 - cont. <br>
