@@ -116,6 +116,81 @@ Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2
 Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901) | May 2020 <br>
 > Presented research (**_Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma_**) virtually at the Glaciation/Deglaciation & All Things Aeolian Session
 
+
+## Honors and Awards
+**Future Investigators in NASA Earth and Space Science and Technology (FINESST F.5)** | NASA| June 2024 <br>
+_Grant Recipient_ <br>
+
+**GSA Graduate Student Research Grant** | Geological Society of America (GSA)| June 2025 <br>
+_Grant Recipient_ <br>
+
+**Charles A. & June R.P. Ross Research Grant** | Geological Society of America (GSA)| June 2024 <br>
+_Grant Recipient_ <br>
+
+**NSF Graduate Research Fellowship Program [(GRFP)](https://www.nsfgrfp.org)** | National Science Foundation | May 2024 <br>
+_Distinction of Honorable Mention_ <br>
+
+**Earth and Planetary Surface Processes Early Career Spotlight** | AGU EPSP | October 2023 <br>
+_October Spotlight_ <br>
+
+**Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
+_Scholarship Recipient_ <br>
+
+**Universities Space Research Association Distinguished Undergraduate** | November 2020; October 2021 <br>
+_Distinction of Honorable Mention_ <br>
+
+**Purdue University Homecoming Pillars of Excellency Scholarship** | October 2020 <br>
+_Teaching and Scholarship Award Winner_ <br>
+
+**Chevron Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2020 <br>
+_Scholarship Recipient_ <br>
+
+**Earth and Atmospheric Sciences’ Class of 1970 Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019; April 2020 <br>
+_Scholarship Recipient_ <br>
+
+**Women in Science Program (WISP) Jandos Scholarship** | Purdue University | April 2020 <br>
+_Scholarship Recipient_ <br>
+
+**Women’s Leadership Series (WLS)** | Purdue University | January 2020 <br>
+_Student Scholarship Recipient_ <br>
+
+**Scholarly Project Grant** | Honors College, Purdue University | November 2019 <br>
+_Grant Recipient_ <br>
+
+**Paul P. and Linda L. Krishna Scholarship in Earth and Atmospheric Sciences** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019 <br>
+_Scholarship Recipient_ <br>
+
+**[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php)** | Honors College, Purdue University | March 2019 – April 2019 <br>
+_First Prize_ <br>
+
+**[Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | Purdue University | August 2018 - December 2021 <br>
+_Scholarship Recipient_ <br>
+
+## Outreach
+**Geoscience Education & Mentorship Support [(GEMS)](https://gems-program.org)** | August 2022 - cont. <br>
+_**Mentor**_ <br>
+>Mentored two undergraduate students by assisting them with finding a research lab at their universities, applying to summer research internships, and working through the graduate school application process.
+
+**Mentoring Institute for Sediment Transport Researchers [(MIST)](https://www.mist365.com)** | September 2023 - September 2024 <br>
+_**Mentee**_ <br>
+>MIST is an NSF-funded mentoring network that connects early career professionals (mentees) who worked on problems related to sediment transport with accomplished mid-career and senior professionals (mentors).
+
+**[Science Day](https://www.flickr.com/photos/gradoffice/albums/72177720307469700/) at Dartmouth, Guarini School of Graduate and Advanced Studies** | April 2023-2026 <br>
+_**Earth Sciences Department Lead**_ <br>
+>Developed a curriculum for and instructed over 500 K-12 students about meteorites and sedimentary, metamorphic, and igneous rock formation and identification during the Guarini Graduate School-sponsored ‘Science Day’. 
+
+**[Montshire](https://montshire.org/exhibit/exhibits/indoor-discovery-exhibits/) Museum of Science** | March 2024 - cont. <br>
+_**Guest Scientist**_ <br>
+>Developed a curriculum for and instructed children and parents who visited the museum about meteorite identification and formation. 
+
+**Earth, Atmospheric, and Planetary Sciences Department, Purdue University** | August 2018, August 2019 <br>
+_**Passport Day Volunteer**_ <br>
+> Taught K-12 students at an annual outreach event called Passport Day, where graduate and undergraduate students from EAPS engage with the local community through hands-on activities related to Earth sciences, space, weather and climate. 
+
+**Women in Science Program [(WISP)](https://www.purdue.edu/science/wisp/), Purdue University** | August 2018 – May 2021 <br>
+_**Mentor** | August 2019 – May 2021_ <br>
+> Worked with other women in science to form a community group that supported each other in both academic and non-academic activities and was assigned a fellow woman in science to mentor and help through the challenges that come with transitioning to college and into a male-dominated major. Coordinated initiatives focused on diversity, such as DEI seminars with guest speakers from the WISP community. 
+
 ## Field Experience
 **Iceland** | July 1-13, 2024 <br>
 _Þórisjökull Alluvial Plain - Cold and Icy Martian Terrestrial Analog | July 1-6, 2024_ <br>
@@ -146,19 +221,6 @@ _Constraining the paleoclimate of the Northeastern Atacama Desert using stratigr
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** | June 2021 - July 2021 <br>
 _Grade: A+_ <br>
 >Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area. Developed research strategies, collected field observations and measurements, compiled detailed rock descriptions, measured stratigraphic sections, and constructed regional geologic maps and bedrock cross sections. <br>
-
-## Work Experience
-**Honors College and Residences** | Purdue University<br>
-_Resident Honors Preceptor_ | Aug 2019 - Dec 2021 <br>
->Fostered the development of relationships among 50 undergraduate residents per year, consisting of both first- and second-year students. <br>
-
->Managed administrative duties including maintenance requests, incident reports, and health and safety inspections and implement educational and recreational programs to assist students in transitioning into the university. <br>
-
-**Stantec Consulting Services Inc.** | Denver, CO<br>
-_Engineering Intern - Water Power and Dams_ | June 2019 - July 2019 <br>
->Constructed a new field guide for rock & soil identification based on standards from the American Society for Testing and Materials (ASTM), the United States Bureau of Reclamation (USBR), and the International Society for Rock Mechanics (ISRM) to aid geotechnical engineers while they are in the field. <br>
-
->Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
 
 ## Teaching Experience
 **Teaching Assistant and Field Instructor: EARS 45-47 (Field Methods)** | Dartmouth College | September 2025 - October 2025 <br>
@@ -242,82 +304,18 @@ _Leadership Resources Committee Chair | August 2020 – May 2021_ <br>
 _Residential Society Liaison | August 2019 – May 2020_ <br>
 > Collaborated with other residents of the Honors College to plan, organize, advertise, and host various events within the hall that help promote student involvement, health, and activity, as well as provide a connection with the residential life student staff. <br>
 
-## Honors and Awards
-**Future Investigators in NASA Earth and Space Science and Technology (FINESST F.5)** | NASA| June 2024 <br>
-_**Grant Recipient**_ <br>
+## Work Experience
+**Honors College and Residences** | Purdue University<br>
+_Resident Honors Preceptor_ | Aug 2019 - Dec 2021 <br>
+>Fostered the development of relationships among 50 undergraduate residents per year, consisting of both first- and second-year students. <br>
 
-**GSA Graduate Student Research Grant** | Geological Society of America (GSA)| June 2025 <br>
-_**Grant Recipient**_ <br>
+>Managed administrative duties including maintenance requests, incident reports, and health and safety inspections and implement educational and recreational programs to assist students in transitioning into the university. <br>
 
-**Charles A. & June R.P. Ross Research Grant** | Geological Society of America (GSA)| June 2024 <br>
-_**Grant Recipient**_ <br>
+**Stantec Consulting Services Inc.** | Denver, CO<br>
+_Engineering Intern - Water Power and Dams_ | June 2019 - July 2019 <br>
+>Constructed a new field guide for rock & soil identification based on standards from the American Society for Testing and Materials (ASTM), the United States Bureau of Reclamation (USBR), and the International Society for Rock Mechanics (ISRM) to aid geotechnical engineers while they are in the field. <br>
 
-**NSF Graduate Research Fellowship Program [(GRFP)](https://www.nsfgrfp.org)** | National Science Foundation | May 2024 <br>
-_**Distinction of Honorable Mention**_ <br>
-
-**Earth and Planetary Surface Processes Early Career Spotlight** | AGU EPSP | October 2023 <br>
-_**October Spotlight**_ <br>
-
-**Ned Smith Field Camp Award** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | May 2021 <br>
-_**Scholarship Recipient**_ <br>
-
-**Universities Space Research Association Distinguished Undergraduate** | November 2020; October 2021 <br>
-_**Distinction of Honorable Mention**_ <br>
-
-**Purdue University Homecoming Pillars of Excellency Scholarship** | October 2020 <br>
-_**Teaching and Scholarship Award Winner**_ <br>
-
-**Chevron Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2020 <br>
-_**Scholarship Recipient**_ <br>
-
-**Earth and Atmospheric Sciences’ Class of 1970 Scholarship** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019; April 2020 <br>
-_**Scholarship Recipient**_ <br>
-
-**Women in Science Program (WISP) Jandos Scholarship** | Purdue University | April 2020 <br>
-_**Scholarship Recipient**_ <br>
-
-**Women’s Leadership Series (WLS)** | Purdue University | January 2020 <br>
-_**Student Scholarship Recipient**_ <br>
-
-**Scholarly Project Grant** | Honors College, Purdue University | November 2019 <br>
-_**Grant Recipient**_ <br>
-
-**Paul P. and Linda L. Krishna Scholarship in Earth and Atmospheric Sciences** | Purdue University Dept. of Earth, Atmospheric, and Planetary Sciences | April 2019 <br>
-_**Scholarship Recipient**_ <br>
-
-**[Solutions Lab](https://honors.purdue.edu/honorscommunity/solutions-lab1.php)** | Honors College, Purdue University | March 2019 – April 2019 <br>
-_**First Prize**_ <br>
-
-**[Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | Purdue University | August 2018 - December 2021 <br>
-_**Scholarship Recipient**_ <br>
-
-**Disney Scholars Program** | August 2018 - December 2021 <br>
-_**Scholarship Recipient**_ <br>
-
-## Outreach
-**Geoscience Education & Mentorship Support [(GEMS)](https://gems-program.org)** | August 2022 - cont. <br>
-_**Mentor**_ <br>
->Mentored two undergraduate students by assisting them with finding a research lab at their universities, applying to summer research internships, and working through the graduate school application process.
-
-**Mentoring Institute for Sediment Transport Researchers [(MIST)](https://www.mist365.com)** | September 2023 - September 2024 <br>
-_**Mentee**_ <br>
->MIST is an NSF-funded mentoring network that connects early career professionals (mentees) who worked on problems related to sediment transport with accomplished mid-career and senior professionals (mentors).
-
-**[Science Day](https://www.flickr.com/photos/gradoffice/albums/72177720307469700/) at Dartmouth, Guarini School of Graduate and Advanced Studies** | April 2023; April 2024 <br>
-_**Earth Sciences Department Lead**_ <br>
->Developed a curriculum for and instructed over 500 K-12 students about meteorites and sedimentary, metamorphic, and igneous rock formation and identification during the Guarini Graduate School-sponsored ‘Science Day’. 
-
-**[Montshire](https://montshire.org/exhibit/exhibits/indoor-discovery-exhibits/) Museum of Science** | March 2024 - cont. <br>
-_**Guest Scientist**_ <br>
->Developed a curriculum for and instructed children and parents who visited the museum about meteorite identification and formation. 
-
-**Earth, Atmospheric, and Planetary Sciences Department, Purdue University** | August 2018, August 2019 <br>
-_**Passport Day Volunteer**_ <br>
-> Taught K-12 students at an annual outreach event called Passport Day, where graduate and undergraduate students from EAPS engage with the local community through hands-on activities related to Earth sciences, space, weather and climate. 
-
-**Women in Science Program [(WISP)](https://www.purdue.edu/science/wisp/), Purdue University** | August 2018 – May 2021 <br>
-_**Mentor** | August 2019 – May 2021_ <br>
-> Worked with other women in science to form a community group that supported each other in both academic and non-academic activities and was assigned a fellow woman in science to mentor and help through the challenges that come with transitioning to college and into a male-dominated major. Coordinated initiatives focused on diversity, such as DEI seminars with guest speakers from the WISP community. 
+>Conducted a geotechnical inspection of Upper Blue and Montgomery Dams in Colorado to ensure quality and safety of infrastructure.<br>
 
 ## Graphic Design for Science Communication
 <style>
@@ -338,20 +336,3 @@ A personal passion project to make designs focused around projects within my gro
 
 >Design for AGU's Earth and Planetary Surface Processes Section that was distributed at the AGU Annual Meeting 2023 in order to boost community involvement, especially focused on Earth Career members. <br>
 > ![2023_AGU_EPSP_Sticker.png]({{ site.baseurl }}/img/2023_AGU_EPSP_Sticker.png) <br>
-
-## Cultural Experience
-**Graduate Student Educational Field Trip, Dept. of Earth Sciences (EARS), Dartmouth College** | June 2023 <br>
-_Cyprus_ <br>
->Traveled to Cyprus with EARS graduate students to study the rich geologic and anthropologic history of the country, including but not limited to the Troodos Ophiolite Sequence, the Messinian Salinity Crisis, and the Tomb of the Kings Paphos Archeological Site. 
-
-**Spring Break Study Abroad: Transylvania- Dracula and Beyond, Purdue University, Honors College** | March 2019 <br>
-_Romania_ <br>
->Traveled to Romania over Spring Break with the Honors College to study the myths, culture, and impact of the legend of Dracula. We explored many different parts of the country and investigated the cultural sources of Dracula, while learning about the history of the basis of Dracula (Vlad the Impaler), and the legends surrounding his family, ruling periods, and demise. We read the novel "Dracula" by Bram Stoker to be able to compare historical references with pop culture literature.
-
-**International Commission on Large Dams [(ICOLD)](https://www.icold-cigb.org)** <br>
-_**Accompanying Person**_ <br>
-_Kyoto, Japan (2012); Bali, Indonesia (2013); Prague, Czech Republic (2017); Vienna, Austria (2018); Marseille, France (2022)_ <br>
->Learned from a young age about cultural differences to be conscious and respectful of when visiting varying parts of the world and made international friendships. This helped me be more concious of empowering diversity within STEM and to be mindful of taking oppportunites to learn from people who have had different life experiences form me.  <br>
-
->Discussed science and engineering concepts associated with applications to hydropower with members from over 100 different countries.
-
