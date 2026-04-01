@@ -164,6 +164,35 @@ _First Prize_ <br>
 **[Presidential Scholarship](https://admissions.purdue.edu/costsandfinaid/freshman.php)** | Purdue University | August 2018 - December 2021 <br>
 _Scholarship Recipient_ <br>
 
+## Teaching Experience
+**Teaching Assistant and Field Instructor: EARS 45-47 (Field Methods)** | Dartmouth College | September 2025 - October 2025 <br>
+_25 students_ <br>
+>The Department of Earth Sciences has offered an off-campus field program, also known as the "Stretch", since the mid-1960s. The Stretch is among the most storied and longest-lived off-campus programs at Dartmouth, and it consists of a roughly two-month traverse across the western United States and Canada where students are directly engaged in field-based data collection and analysis.
+
+**Teaching Assistant and Lab Instructor: EARS 33 (Earth Surface Processes and Landforms)** | Dartmouth College | March 2024 - May 2024, 2025 <br>
+_30 students_ <br>
+>This course is an introduction to geomorphology – the study of the mechanisms that shape the Earth’s surface. Students learned about river, glacial, hillslope, and wind-driven processes, and the resulting landforms and landscapes they produce.
+
+**Teaching Assistant: EARS 34 (Earth’s Biogeochemical Cycles)** | Dartmouth College | March 2023 - June 2023 <br>
+_15 students_ <br>
+>This course is a survey of biogeochemical interactions among Earth’s crust, oceans, and atmosphere, including perturbations due to human activities. Particular attention is given to carbon, nitrogen, phosphorus, and sulfur biogeochemical cycles and the role of these cycles in applied environmental challenges.
+
+**Teaching and Lab Assistant: EAPS 11200 (Earth Through Time)** | Purdue University | August 2020 - December 2020 <br>
+_30 students_ <br>
+>This course teaches the history of the planet Earth from its beginnings to the present. This explored how scientists interpret Earth history from the geologic record. The laboratory provided hands-on experience in interpreting various geologic and fossil records.
+
+**Teaching and Lab Assistant: EAPS 11100 (Physical Geology)** | Purdue University | January 2021 - May 2021 <br>
+_30 students_ <br>
+>This course teaches geologic processes and the development of land forms. Laboratory covers the study of minerals and rocks, the interpretations of topographic and geologic maps, and field investigations.
+
+**Teaching Assistant: EAPS 10600 (Geoscience in the Cinema)** | Purdue University | August 2020 – May 2021 <br>
+_1000 students_ <br>
+>This course is an introduction to earth and atmospheric sciences based on depictions of natural disasters in popular and documentary cinema. Lectures focused on discussion of the relevant science, separating fact from fiction, and disaster management.
+
+**Private Tutor: Calculus** | Honors College, Purdue University | January 2018 – May 2020 <br>
+_2 students_ <br>
+>Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
+
 ## Outreach
 **Geoscience Education & Mentorship Support [(GEMS)](https://gems-program.org)** | August 2022 - cont. <br>
 _**Mentor**_ <br>
@@ -219,35 +248,6 @@ _Constraining the paleoclimate of the Northeastern Atacama Desert using stratigr
 **[Wasatch-Uinta Field Camp](https://www.fieldcamp.org)** | June 2021 - July 2021 <br>
 _Grade: A+_ <br>
 >Six-week intensive field course that included nine different field-based projects at field sites in and around the Park City, UT area. Developed research strategies, collected field observations and measurements, compiled detailed rock descriptions, measured stratigraphic sections, and constructed regional geologic maps and bedrock cross sections. <br>
-
-## Teaching Experience
-**Teaching Assistant and Field Instructor: EARS 45-47 (Field Methods)** | Dartmouth College | September 2025 - October 2025 <br>
-_25 students_ <br>
->The Department of Earth Sciences has offered an off-campus field program, also known as the "Stretch", since the mid-1960s. The Stretch is among the most storied and longest-lived off-campus programs at Dartmouth, and it consists of a roughly two-month traverse across the western United States and Canada where students are directly engaged in field-based data collection and analysis.
-
-**Teaching Assistant and Lab Instructor: EARS 33 (Earth Surface Processes and Landforms)** | Dartmouth College | March 2024 - May 2024, 2025 <br>
-_30 students_ <br>
->This course is an introduction to geomorphology – the study of the mechanisms that shape the Earth’s surface. Students learned about river, glacial, hillslope, and wind-driven processes, and the resulting landforms and landscapes they produce.
-
-**Teaching Assistant: EARS 34 (Earth’s Biogeochemical Cycles)** | Dartmouth College | March 2023 - June 2023 <br>
-_15 students_ <br>
->This course is a survey of biogeochemical interactions among Earth’s crust, oceans, and atmosphere, including perturbations due to human activities. Particular attention is given to carbon, nitrogen, phosphorus, and sulfur biogeochemical cycles and the role of these cycles in applied environmental challenges.
-
-**Teaching and Lab Assistant: EAPS 11200 (Earth Through Time)** | Purdue University | August 2020 - December 2020 <br>
-_30 students_ <br>
->This course teaches the history of the planet Earth from its beginnings to the present. This explored how scientists interpret Earth history from the geologic record. The laboratory provided hands-on experience in interpreting various geologic and fossil records.
-
-**Teaching and Lab Assistant: EAPS 11100 (Physical Geology)** | Purdue University | January 2021 - May 2021 <br>
-_30 students_ <br>
->This course teaches geologic processes and the development of land forms. Laboratory covers the study of minerals and rocks, the interpretations of topographic and geologic maps, and field investigations.
-
-**Teaching Assistant: EAPS 10600 (Geoscience in the Cinema)** | Purdue University | August 2020 – May 2021 <br>
-_1000 students_ <br>
->This course is an introduction to earth and atmospheric sciences based on depictions of natural disasters in popular and documentary cinema. Lectures focused on discussion of the relevant science, separating fact from fiction, and disaster management.
-
-**Private Tutor: Calculus** | Honors College, Purdue University | January 2018 – May 2020 <br>
-_2 students_ <br>
->Calculus tutor for students within the Honors College to improve their understanding of material presented in class. Expanded on provided materials by working through additional practice materials. 
 
 ## Leadership and Involvement
 **American Geophysical Union (AGU) Earth and Planetary Surface Processes (EPSP) [Student Committee](https://connect.agu.org/epsp/about/students)** | May 2023 - May 2026. <br>
