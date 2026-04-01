@@ -17,8 +17,7 @@ Honors College, Dean’s List, and Semester Honors (Fall Semester 2018 - Fall Se
 [Learning Beyond the Classroom Certificate](https://www.purdue.edu/science/Current_Students/learning-beyond-the-classroom/index.html) (Dec 2021)<br>
 
 **Wilderness First Responder** (Expiration: 12/31/2028) <br>
-_**Wilderness Medical Associates**_ <br>
-Emma Rogers has successfully achieved the above certification which includes epinephrine administration to treat anaphylaxis and severe asthma, and BLS CPR which includes adult, child, and infant CPR as well as the use of medical oxygen and AED<br>
+_Wilderness Medical Associates_ <br>
 
 ## Skills
 - **Programming/Software**: <br>
