@@ -78,44 +78,43 @@ Wilner, J. A., Nordin, B. J., Getraer, A., Gregoire, R. M., Krishna, M., Li, J.,
 ## Presentations
 **56th Lunar and Planetary Science Conference 2025** <br>
 Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1539.pdf) | March 2025
-> Presented research (**_Title: Climatic implications of rounded basaltic clasts on Mars from terrestrial field analogs_**) at the Fluvial Geomorphology of Mars: Sediment Transport and Basin Evolution session.
+> Title: Climatic implications of rounded basaltic clasts on Mars from terrestrial field analogs
 
 **Geological Society of America (GSA) Connects 2024** <br>
 Oral Presentation | [Abstract](https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/403332) | September 2024
->Presented research (**_Title: Nature abhors an angle: Using clast morphometry to reconstruct sediment transport history on Mars_**) at the GSA Connects 2024 conference, in the Best Practices and Exciting Discoveries in Identifying, Mapping, and Analyzing Planetary Landforms and Terrestrial Analogues session.
+>Title: Nature abhors an angle: Using clast morphometry to reconstruct sediment transport history on Mars
 
 **Second Workshop on Terrestrial Analogs for Planetary Exploration 2024**<br>
 Virtual Oral Presentation | [Abstract](https://www.hou.usra.edu/meetings/terrestrialanalogs2024/pdf/8016.pdf) | [Presentation](https://www.hou.usra.edu/meetings/terrestrialanalogs2024/presentations/Monday/1230_Rogers.pdf) | [Recording](https://www.youtube.com/watch?v=PM8iP0v-LUQ) | August 2024 <br>
-> Presented research (**_Title: Reconstructing basaltic sediment transport on Mars using clast morphometry_**) at the Second Workshop on Terrestrial Analogs for Planetary Exploration 2024, hosted at the Northern Arizona University (NAU), in a 12-minute virtual oral presentation.
+> Title: Reconstructing basaltic sediment transport on Mars using clast morphometry_**
 
 **American Geophysical Union (AGU) 2023**<br>
 Oral Presentation | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1258263) | December 2023 <br>
-> Presented research (**_Title: Reconstructing basaltic sediment transport using clast morphometry_**) at the Granular and Fluid Physics on Earth and Other Planetary Bodies session.
+> Title: Reconstructing basaltic sediment transport using clast morphometry
 
 **54th Lunar and Planetary Science Conference (LPSC) 2023**<br>
 Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2023/pdf/1200.pdf) | [Poster](https://lpsc2023.ipostersessions.com/default.aspx?s=FF-FB-48-02-2E-2A-75-16-41-0F-FA-4C-FF-4F-1F-CE) | March 2023 <br>
-> Presented research (**_Title: Reconstructing basaltic sediment transport on Mars using terrestrial analogs_**) at the Sedimentary Analogues: Sediments, Transport, and Structures session.
+> Title: Reconstructing basaltic sediment transport on Mars using terrestrial analogs
 
 **American Geophysical Union (AGU) 2021**<br>
 E-lightning Presentation and Poster | [Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/910572) | [Poster](https://agu2021fallmeeting-agu.ipostersessions.com/default.aspx?s=48-BD-35-FD-97-8D-0F-F6-44-6A-26-AA-E2-AC-2A-41) | December 2021 <br>
-> Presented research (**_Title: A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma_**) at the Coupling of the Cryosphere, Solid Earth, Surface, and Climate in Shaping Late Cenozoic Topography eLightning session.
+>Title: A Revised Map of Glacial Lake Tight and Abandoned Drainage Networks in Ohio, West Virginia, and Kentucky Reveals Glacial Isostatic Tilting at ca. 1.3 Ma
 
 **Council of Undergraduate Research REU Symposium 2021**<br>
 Lightning Oral Presentation | [Abstract](https://agu.confex.com/agu/fm21/meetingapp.cgi/Paper/910572) | October 2021 <br>
-> Presented summer research (**_Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater_**) at the Council of Undergraduate Research REU Symposium 2021 in a five minute lightning talk. 
+>Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater
 
 **52nd Lunar and Planetary Science Conference (LPSC) 2021**<br>
 Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
-> Presented research (**_Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater_**) virtually at the Modern Mars: Earth, Wind, and Ice Session
+> Title: Understanding equatorial gully erosion on Mars: a case study on Krupac Crater
 
 **52nd Lunar and Planetary Science Conference (LPSC) 2021**<br>
 Virtual Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2021/pdf/1745.pdf) | [Poster](https://lpsc2021.ipostersessions.com/?s=8F-F8-F4-7D-D5-05-DE-97-27-21-B6-68-55-7F-25-21)| March 2021 <br>
-> Co-author on the virtual poster (**_Title: A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars_**) at the Mars Geomorphology session.
+>Title: A Possible Subaqueous Hydrothermal System in Melas Chasma, Mars
 
 **Geological Society of America North-Central Section - 54th Annual Meeting 2020**<br>
 Virtual Poster Presentation | [Abstract](https://gsa.confex.com/gsa/2020NC/meetingapp.cgi/Paper/347901) | May 2020 <br>
-> Presented research (**_Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma_**) virtually at the Glaciation/Deglaciation & All Things Aeolian Session
-
+> Title: A new reconstruction of Pleistocene Lake Tight showing glacial isostatic flexure at 1.3 Ma
 
 ## Honors and Awards
 **Future Investigators in NASA Earth and Space Science and Technology (FINESST F.5)** | NASA| June 2024 <br>
