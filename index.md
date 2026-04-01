@@ -78,7 +78,7 @@ Wilner, J. A., Nordin, B. J., Getraer, A., Gregoire, R. M., Krishna, M., Li, J.,
 ## Presentations
 **56th Lunar and Planetary Science Conference 2025** <br>
 Poster Presentation | [Abstract](https://www.hou.usra.edu/meetings/lpsc2025/pdf/1539.pdf) | March 2025 <br>
-Title: Climatic implications of rounded basaltic clasts on Mars from terrestrial field analogs
+Climatic implications of rounded basaltic clasts on Mars from terrestrial field analogs
 
 **Geological Society of America (GSA) Connects 2024** <br>
 Oral Presentation | [Abstract](https://gsa.confex.com/gsa/2024AM/meetingapp.cgi/Paper/403332) | September 2024 <br>
