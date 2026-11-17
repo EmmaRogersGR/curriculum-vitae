@@ -81,7 +81,7 @@ p{max-width:44rem}
 /* Home hero */
 .hero{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,6fr);gap:2.5rem;align-items:center;margin-bottom:1rem}
 .hero figure{margin:0}
-.hero img{border-radius:6px;aspect-ratio:4/3;object-fit:cover;width:100%;background:var(--line)}
+.hero img{border-radius:6px;width:100%;height:auto;background:var(--line)}
 .hero figcaption{font-size:.85rem;color:var(--ink-soft);margin-top:.5rem;line-height:1.45}
 .link-row{display:flex;flex-wrap:wrap;gap:.6rem;margin:1.25rem 0 0;padding:0;list-style:none}
 .btn{
